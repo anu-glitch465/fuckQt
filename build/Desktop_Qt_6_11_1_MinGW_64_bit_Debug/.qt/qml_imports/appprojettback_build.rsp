@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/dimi/Documents/projettback
+-cmake-output
+-output-file
+C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/qml_imports/appprojettback_build.cmake
+-importPath
+C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug
+-importPath
+C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/projettback
+-importPath
+C:/Qt/6.11.1/mingw_64/qml
+-qrcFiles
+C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qmake_projettback.qrc
+C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/appprojettback_raw_qml_0.qrc

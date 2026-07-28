@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/projettback">
+    <file alias="qmldir">C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/projettback/qmldir</file>
+  </qresource>
+</RCC>
+

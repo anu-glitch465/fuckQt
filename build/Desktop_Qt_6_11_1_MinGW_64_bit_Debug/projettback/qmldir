@@ -1,0 +1,7 @@
+module projettback
+typeinfo appprojettback.qmltypes
+prefer :/qt/qml/projettback/
+Main 254.0 Main.qml
+Mybutton 254.0 Mybutton.qml
+depends QtQuick
+
