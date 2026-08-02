@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/projettback/">
+    <file alias="background.gif">C:/Users/dimi/Documents/projettback/background.gif</file>
+  </qresource>
+</RCC>
+

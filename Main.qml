@@ -1,6 +1,7 @@
 import QtQuick
 import QtQuick.Layouts
 import QtQuick.Controls.Basic
+import QtQuick.Effects
 
 
 ApplicationWindow {
@@ -17,15 +18,63 @@ ApplicationWindow {
     property color reallyLight: "#e7e7e7"
     property color light: "#e0e0e0"
 
+    AnimatedImage{
+        id: background
+        anchors.fill: parent
+         source: "qrc:/qt/qml/projettback/background.gif"
+         fillMode: Image.PreserveAspectCrop
+         visible: false
+    }
+
+    MultiEffect {
+        anchors.fill: background
+        source: background
+
+        blurEnabled: true
+        blur: 0.8
+    }
+
+    // Button {
+    //     width: 80
+    //     height: 80
+
+    //     background: Rectangle {
+    //         radius: width / 2
+    //         color: "blue"
+    //     }
+
+    //     text: "OK"
+    // }
+    TrianButt{
+        width: 100
+        height: 100
+
+        scale: mouse.containsMouse ? 1.1 : 1.0
+
+        Behavior on scale {
+            NumberAnimation {
+                duration: 150
+                easing.type: Easing.OutQuad
+            }
+        }
+
+        MouseArea {
+               id: mouse
+               anchors.fill: parent
+               hoverEnabled: true
+           }
+        shape: "triangle"
+        color: "red"
+
+        onClicked: {
+            console.log("triangle clicked")
+        }
+    }
     Mybutton{
         radius: 20
-           color: "blue"
-
-           Text {
-               anchors.fill: parent
-               Text: "Launch"
-           }
-    }
+        color: "blue"
+        text:"Truahat"
+}
 
     // GridLayout {
     //     id: grid

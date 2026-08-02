@@ -5,6 +5,22 @@
             "moduleFiles": [
                 {
                     "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 11,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 11,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 12,
+                            "message": ""
+                        }
                     ],
                     "filePath": "C:/Users/dimi/Documents/projettback/Mybutton.qml"
                 }

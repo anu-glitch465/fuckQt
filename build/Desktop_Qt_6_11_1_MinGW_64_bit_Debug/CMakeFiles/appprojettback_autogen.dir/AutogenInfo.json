@@ -1122,6 +1122,7 @@
 		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
 		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in",
 		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
 		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in",
 		"C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/qml_imports/appprojettback_conf.cmake",
 		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/windows/app.exe.manifest.in"
@@ -1203,10 +1204,12 @@
 	"MOC_SKIP" : 
 	[
 		"C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_qml_0.cpp",
+		"C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.cpp",
 		"C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_projettback.cpp",
 		"C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Main_qml.cpp",
 		"C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Mybutton_qml.cpp",
 		"C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_qmlcache_loader.cpp",
+		"C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.cpp",
 		"C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/appprojettback_qmltyperegistrations.cpp"
 	],
 	"MULTI_CONFIG" : false,
@@ -1226,10 +1229,12 @@
 	"UIC_SKIP" : 
 	[
 		"C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_qml_0.cpp",
+		"C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.cpp",
 		"C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_projettback.cpp",
 		"C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Main_qml.cpp",
 		"C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Mybutton_qml.cpp",
 		"C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_qmlcache_loader.cpp",
+		"C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.cpp",
 		"C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/appprojettback_qmltyperegistrations.cpp"
 	],
 	"UIC_UI_FILES" : [],

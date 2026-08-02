@@ -736,6 +736,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   ".qt/rcc/qmake_projettback.qrc"
   "projettback/appprojettback_qml_module_dir_map.qrc"
   ".qt/rcc/appprojettback_raw_qml_0.qrc"
+  ".qt/rcc/appprojettback_raw_res_0.qrc"
   "projettback/qmldir"
   ".qt/.qmlls.build.ini.part"
   "appprojettback.exe.manifest"

@@ -19,6 +19,13 @@ namespace _qt_qml_projettback_Mybutton_qml {
         reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
     };
 }
+namespace _qt_qml_projettback_TrianButt_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
 
 }
 namespace {
@@ -35,6 +42,7 @@ Q_GLOBAL_STATIC(Registry, unitRegistry)
 Registry::Registry() {
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/projettback/Main.qml"), &QmlCacheGeneratedCode::_qt_qml_projettback_Main_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/projettback/Mybutton.qml"), &QmlCacheGeneratedCode::_qt_qml_projettback_Mybutton_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/projettback/TrianButt.qml"), &QmlCacheGeneratedCode::_qt_qml_projettback_TrianButt_qml::unit);
     QQmlPrivate::RegisterQmlUnitCacheHook registration;
     registration.structVersion = 0;
     registration.lookupCachedQmlUnit = &lookupCachedUnit;

@@ -367,6 +367,7 @@ CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qm
  C:/Qt/6.11.1/mingw_64/include/QtCore/qspan.h \
  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cassert \
  C:/Qt/6.11.1/mingw_64/include/QtCore/q20iterator.h \
+ C:/Qt/6.11.1/mingw_64/include/QtCore/qloggingcategory.h \
  C:/Qt/6.11.1/mingw_64/include/QtCore/qtimezone.h \
  C:/Qt/6.11.1/mingw_64/include/QtQml/qjsengine.h \
  C:/Qt/6.11.1/mingw_64/include/QtQml/qjsmanagedvalue.h \

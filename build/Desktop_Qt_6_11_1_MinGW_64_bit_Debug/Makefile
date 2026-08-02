@@ -479,6 +479,30 @@ build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_qml_0.
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appprojettback.dir\build.make CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_qml_0.cpp.s
 .PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_qml_0.cpp.s
 
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.obj: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.cpp.obj
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.obj
+
+# target to build an object file
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appprojettback.dir\build.make CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.cpp.obj
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.cpp.obj
+
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.i: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.cpp.i
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.i
+
+# target to preprocess a source file
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appprojettback.dir\build.make CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.cpp.i
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.cpp.i
+
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.s: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.cpp.s
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.s
+
+# target to generate assembly for a file
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appprojettback.dir\build.make CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.cpp.s
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.cpp.s
+
 build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_projettback.obj: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_projettback.cpp.obj
 .PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_projettback.obj
 
@@ -575,6 +599,30 @@ build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_qmlcache
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appprojettback.dir\build.make CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_qmlcache_loader.cpp.s
 .PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_qmlcache_loader.cpp.s
 
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.obj: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.cpp.obj
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.obj
+
+# target to build an object file
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appprojettback.dir\build.make CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.cpp.obj
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.cpp.obj
+
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.i: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.cpp.i
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.i
+
+# target to preprocess a source file
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appprojettback.dir\build.make CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.cpp.i
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.cpp.i
+
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.s: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.cpp.s
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.s
+
+# target to generate assembly for a file
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appprojettback.dir\build.make CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.cpp.s
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -639,6 +687,9 @@ help:
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_qml_0.obj
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_qml_0.i
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_qml_0.s
+	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.obj
+	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.i
+	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.s
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_projettback.obj
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_projettback.i
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_projettback.s
@@ -651,6 +702,9 @@ help:
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_qmlcache_loader.obj
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_qmlcache_loader.i
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_qmlcache_loader.s
+	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.obj
+	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.i
+	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

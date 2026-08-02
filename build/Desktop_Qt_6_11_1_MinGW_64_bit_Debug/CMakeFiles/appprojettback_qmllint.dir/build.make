@@ -68,6 +68,7 @@ include CMakeFiles/appprojettback_qmllint.dir/progress.make
 CMakeFiles/appprojettback_qmllint: C:/Qt/6.11.1/mingw_64/bin/qmllint.exe
 CMakeFiles/appprojettback_qmllint: C:/Users/dimi/Documents/projettback/Main.qml
 CMakeFiles/appprojettback_qmllint: C:/Users/dimi/Documents/projettback/Mybutton.qml
+CMakeFiles/appprojettback_qmllint: C:/Users/dimi/Documents/projettback/TrianButt.qml
 CMakeFiles/appprojettback_qmllint: .rcc/qmllint/appprojettback.rsp
 	cd /d C:\Users\dimi\Documents\projettback && call C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.qt\bin\qt_setup_tool_path.bat C:/Qt/6.11.1/mingw_64/bin/qmllint.exe @C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmllint/appprojettback.rsp
 

@@ -21,7 +21,10 @@ qt_add_qml_module(appprojettback
     URI projettback
     QML_FILES
         Main.qml
-        QML_FILES Mybutton.qml
+        Mybutton.qml
+        RESOURCES
+                background.gif
+                QML_FILES TrianButt.qml
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.

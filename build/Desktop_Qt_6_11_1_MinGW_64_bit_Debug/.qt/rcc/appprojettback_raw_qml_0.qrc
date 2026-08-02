@@ -2,6 +2,7 @@
   <qresource prefix="/qt/qml/projettback/">
     <file alias="Main.qml">C:/Users/dimi/Documents/projettback/Main.qml</file>
     <file alias="Mybutton.qml">C:/Users/dimi/Documents/projettback/Mybutton.qml</file>
+    <file alias="TrianButt.qml">C:/Users/dimi/Documents/projettback/TrianButt.qml</file>
   </qresource>
 </RCC>
 

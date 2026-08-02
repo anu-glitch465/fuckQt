@@ -10,7 +10,63 @@
                             "column": 30,
                             "durationMicroseconds": 0,
                             "functionName": "lightMode",
-                            "line": 14,
+                            "line": 15,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 20,
+                            "durationMicroseconds": 0,
+                            "functionName": "fillMode",
+                            "line": 25,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 23,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 17,
+                            "durationMicroseconds": 0,
+                            "functionName": "source",
+                            "line": 31,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 30,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 16,
+                            "durationMicroseconds": 1000,
+                            "functionName": "scale",
+                            "line": 52,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 20,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 69,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 30,
+                            "durationMicroseconds": 0,
+                            "functionName": "type",
+                            "line": 57,
                             "message": ""
                         },
                         {
@@ -18,7 +74,7 @@
                             "column": 30,
                             "durationMicroseconds": 0,
                             "functionName": "fill",
-                            "line": 25,
+                            "line": 63,
                             "message": ""
                         }
                     ],

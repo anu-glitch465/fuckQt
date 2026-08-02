@@ -2,5 +2,8 @@
 C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qmake_projettback.qrc
 --resource
 C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/appprojettback_raw_qml_0.qrc
+--resource
+C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/appprojettback_raw_res_0.qrc
 /qt/qml/projettback/Main.qml
 /qt/qml/projettback/Mybutton.qml
+/qt/qml/projettback/TrianButt.qml

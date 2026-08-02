@@ -14,6 +14,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
 set(CMAKE_MULTIPLE_OUTPUT_PAIRS
   "C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Main_qml.cpp.aotstats" "C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Main_qml.cpp"
   "C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Mybutton_qml.cpp.aotstats" "C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Mybutton_qml.cpp"
+  "C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.cpp.aotstats" "C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.cpp"
   )
 
 
