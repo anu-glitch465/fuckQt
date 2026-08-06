@@ -77,6 +77,8 @@ appprojettback_qmltyperegistrations.cpp: C:/Qt/6.11.1/mingw_64/metatypes/qt6netw
 appprojettback_qmltyperegistrations.cpp: C:/Qt/6.11.1/mingw_64/metatypes/qt6quick_metatypes.json
 appprojettback_qmltyperegistrations.cpp: C:/Qt/6.11.1/mingw_64/metatypes/qt6gui_metatypes.json
 appprojettback_qmltyperegistrations.cpp: C:/Qt/6.11.1/mingw_64/metatypes/qt6opengl_metatypes.json
+appprojettback_qmltyperegistrations.cpp: C:/Qt/6.11.1/mingw_64/metatypes/qt6quickcontrols2_metatypes.json
+appprojettback_qmltyperegistrations.cpp: C:/Qt/6.11.1/mingw_64/metatypes/qt6core5compat_metatypes.json
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic QML type registration for target appprojettback"
 	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.11.1/mingw_64/bin/qmltyperegistrar.exe --generate-qmltypes=C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/projettback/appprojettback.qmltypes --import-name=projettback --major-version=254 --minor-version=254 @C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/qmltypes/appprojettback_foreign_types.txt -o C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/appprojettback_qmltyperegistrations.cpp C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/meta_types/qt6appprojettback_metatypes.json
 	C:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/qmltypes

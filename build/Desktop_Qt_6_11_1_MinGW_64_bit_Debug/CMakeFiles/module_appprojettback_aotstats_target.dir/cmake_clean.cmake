@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  ".rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp"
+  ".rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.aotstats"
   ".rcc/qmlcache/appprojettback_Main_qml.cpp"
   ".rcc/qmlcache/appprojettback_Main_qml.cpp.aotstats"
   ".rcc/qmlcache/appprojettback_Mybutton_qml.cpp"

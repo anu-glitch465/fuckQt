@@ -1926,6 +1926,18 @@
 			"value" : "OFF"
 		},
 		{
+			"name" : "QT_FEATURE_big_codecs",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Qt feature: big_codecs (from target Qt6::Core5Compat)"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "ON"
+		},
+		{
 			"name" : "QT_FEATURE_broken_threadlocal_dtors",
 			"properties" : 
 			[
@@ -2008,6 +2020,18 @@
 			],
 			"type" : "INTERNAL",
 			"value" : "OFF"
+		},
+		{
+			"name" : "QT_FEATURE_codecs",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Qt feature: codecs (from target Qt6::Core5Compat)"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "ON"
 		},
 		{
 			"name" : "QT_FEATURE_colornames",
@@ -3100,6 +3124,18 @@
 			],
 			"type" : "INTERNAL",
 			"value" : "ON"
+		},
+		{
+			"name" : "QT_FEATURE_iconv",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Qt feature: iconv (from target Qt6::Core5Compat)"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "OFF"
 		},
 		{
 			"name" : "QT_FEATURE_icu",
@@ -4854,6 +4890,174 @@
 			"value" : "ON"
 		},
 		{
+			"name" : "QT_FEATURE_quickcontrols2_basic",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Qt feature: quickcontrols2_basic (from target Qt6::QuickControls2)"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "ON"
+		},
+		{
+			"name" : "QT_FEATURE_quickcontrols2_fluentwinui3",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Qt feature: quickcontrols2_fluentwinui3 (from target Qt6::QuickControls2)"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "ON"
+		},
+		{
+			"name" : "QT_FEATURE_quickcontrols2_fusion",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Qt feature: quickcontrols2_fusion (from target Qt6::QuickControls2)"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "ON"
+		},
+		{
+			"name" : "QT_FEATURE_quickcontrols2_imagine",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Qt feature: quickcontrols2_imagine (from target Qt6::QuickControls2)"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "ON"
+		},
+		{
+			"name" : "QT_FEATURE_quickcontrols2_ios",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Qt feature: quickcontrols2_ios (from target Qt6::QuickControls2)"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "OFF"
+		},
+		{
+			"name" : "QT_FEATURE_quickcontrols2_macos",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Qt feature: quickcontrols2_macos (from target Qt6::QuickControls2)"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "OFF"
+		},
+		{
+			"name" : "QT_FEATURE_quickcontrols2_material",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Qt feature: quickcontrols2_material (from target Qt6::QuickControls2)"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "ON"
+		},
+		{
+			"name" : "QT_FEATURE_quickcontrols2_stylekit",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Qt feature: quickcontrols2_stylekit (from target Qt6::QuickControls2)"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "ON"
+		},
+		{
+			"name" : "QT_FEATURE_quickcontrols2_universal",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Qt feature: quickcontrols2_universal (from target Qt6::QuickControls2)"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "ON"
+		},
+		{
+			"name" : "QT_FEATURE_quickcontrols2_windows",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Qt feature: quickcontrols2_windows (from target Qt6::QuickControls2)"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "ON"
+		},
+		{
+			"name" : "QT_FEATURE_quicktemplates2_calendar",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Qt feature: quicktemplates2_calendar (from target Qt6::QuickTemplates2)"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "ON"
+		},
+		{
+			"name" : "QT_FEATURE_quicktemplates2_container",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Qt feature: quicktemplates2_container (from target Qt6::QuickTemplates2)"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "ON"
+		},
+		{
+			"name" : "QT_FEATURE_quicktemplates2_hover",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Qt feature: quicktemplates2_hover (from target Qt6::QuickTemplates2)"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "ON"
+		},
+		{
+			"name" : "QT_FEATURE_quicktemplates2_multitouch",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Qt feature: quicktemplates2_multitouch (from target Qt6::QuickTemplates2)"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "ON"
+		},
+		{
 			"name" : "QT_FEATURE_raster_64bit",
 			"properties" : 
 			[
@@ -5628,6 +5832,18 @@
 				{
 					"name" : "HELPSTRING",
 					"value" : "Qt feature: testlib (from target Qt6::Core)"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "ON"
+		},
+		{
+			"name" : "QT_FEATURE_textcodec",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Qt feature: textcodec (from target Qt6::Core5Compat)"
 				}
 			],
 			"type" : "INTERNAL",
@@ -6546,6 +6762,18 @@
 			"value" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Concurrent"
 		},
 		{
+			"name" : "Qt6Core5Compat_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for Qt6Core5Compat."
+				}
+			],
+			"type" : "PATH",
+			"value" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core5Compat"
+		},
+		{
 			"name" : "Qt6CoreTools_DIR",
 			"properties" : 
 			[
@@ -6580,6 +6808,18 @@
 			],
 			"type" : "PATH",
 			"value" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6EntryPointPrivate"
+		},
+		{
+			"name" : "Qt6GraphicalEffects_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for Qt6GraphicalEffects."
+				}
+			],
+			"type" : "PATH",
+			"value" : "Qt6GraphicalEffects_DIR-NOTFOUND"
 		},
 		{
 			"name" : "Qt6GuiTools_DIR",
@@ -6724,6 +6964,30 @@
 			],
 			"type" : "PATH",
 			"value" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml"
+		},
+		{
+			"name" : "Qt6QuickControls2_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for Qt6QuickControls2."
+				}
+			],
+			"type" : "PATH",
+			"value" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2"
+		},
+		{
+			"name" : "Qt6QuickTemplates2_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for Qt6QuickTemplates2."
+				}
+			],
+			"type" : "PATH",
+			"value" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2"
 		},
 		{
 			"name" : "Qt6QuickTools_DIR",

@@ -213,6 +213,7 @@
 #define __UINT16_MAX__ 0xffff
 #define __cdecl __attribute__((__cdecl__))
 #define __FLT128_HAS_INFINITY__ 1
+#define QT_CORE5COMPAT_LIB 1
 #define __FLT32_MIN__ 1.17549435082228750796873653722224568e-38F32
 #define __UINT8_TYPE__ unsigned char
 #define __FLT_DIG__ 6
@@ -343,6 +344,7 @@
 #define __INTPTR_TYPE__ long long int
 #define __UINT16_TYPE__ short unsigned int
 #define __WCHAR_TYPE__ short unsigned int
+#define QT_QUICKCONTROLS2_LIB 1
 #define __pic__ 1
 #define __UINTPTR_MAX__ 0xffffffffffffffffULL
 #define __INT_FAST64_WIDTH__ 64

@@ -83,6 +83,8 @@ appprojettback_qmltyperegistrations.cpp: C:/Qt/6.11.1/mingw_64/metatypes/qt6netw
 appprojettback_qmltyperegistrations.cpp: C:/Qt/6.11.1/mingw_64/metatypes/qt6quick_metatypes.json
 appprojettback_qmltyperegistrations.cpp: C:/Qt/6.11.1/mingw_64/metatypes/qt6gui_metatypes.json
 appprojettback_qmltyperegistrations.cpp: C:/Qt/6.11.1/mingw_64/metatypes/qt6opengl_metatypes.json
+appprojettback_qmltyperegistrations.cpp: C:/Qt/6.11.1/mingw_64/metatypes/qt6quickcontrols2_metatypes.json
+appprojettback_qmltyperegistrations.cpp: C:/Qt/6.11.1/mingw_64/metatypes/qt6core5compat_metatypes.json
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Automatic QML type registration for target appprojettback"
 	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.11.1/mingw_64/bin/qmltyperegistrar.exe --generate-qmltypes=C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/projettback/appprojettback.qmltypes --import-name=projettback --major-version=254 --minor-version=254 @C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/qmltypes/appprojettback_foreign_types.txt -o C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/appprojettback_qmltyperegistrations.cpp C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/meta_types/qt6appprojettback_metatypes.json
 	C:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/qmltypes
@@ -134,7 +136,7 @@ projettback/appprojettback.qmltypes: appprojettback_qmltyperegistrations.cpp
 	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appprojettback_Mybutton_qml.cpp.aotstats
 
 .rcc/qmlcache/appprojettback_trianButt_qml.cpp: C:/Qt/6.11.1/mingw_64/bin/qmlcachegen.exe
-.rcc/qmlcache/appprojettback_trianButt_qml.cpp: C:/Users/dimi/Documents/projettback/TrianButt.qml
+.rcc/qmlcache/appprojettback_trianButt_qml.cpp: C:/Users/dimi/Documents/projettback/trianButt.qml
 .rcc/qmlcache/appprojettback_trianButt_qml.cpp: .qt/rcc/qmake_projettback.qrc
 .rcc/qmlcache/appprojettback_trianButt_qml.cpp: .qt/rcc/appprojettback_raw_qml_0.qrc
 .rcc/qmlcache/appprojettback_trianButt_qml.cpp: .qt/rcc/appprojettback_raw_res_0.qrc
@@ -142,45 +144,63 @@ projettback/appprojettback.qmltypes: appprojettback_qmltyperegistrations.cpp
 .rcc/qmlcache/appprojettback_trianButt_qml.cpp: projettback/qmldir
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Generating .rcc/qmlcache/appprojettback_trianButt_qml.cpp, .rcc/qmlcache/appprojettback_trianButt_qml.cpp.aotstats"
 	C:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache
-	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.11.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/projettback/TrianButt.qml -I C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug -I C:/Qt/6.11.1/mingw_64/qml -i C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/projettback/qmldir --resource C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qmake_projettback.qrc --resource C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/appprojettback_raw_qml_0.qrc --resource C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/appprojettback_raw_res_0.qrc --dump-aot-stats --module-id=projettback(appprojettback) -o C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_TrianButt_qml.cpp C:/Users/dimi/Documents/projettback/TrianButt.qml
+	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.11.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/projettback/TrianButt.qml -I C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug -I C:/Qt/6.11.1/mingw_64/qml -i C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/projettback/qmldir --resource C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qmake_projettback.qrc --resource C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/appprojettback_raw_qml_0.qrc --resource C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/appprojettback_raw_res_0.qrc --dump-aot-stats --module-id=projettback(appprojettback) -o C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.cpp C:/Users/dimi/Documents/projettback/trianButt.qml
 
 .rcc/qmlcache/appprojettback_trianButt_qml.cpp.aotstats: .rcc/qmlcache/appprojettback_trianButt_qml.cpp
 	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appprojettback_trianButt_qml.cpp.aotstats
 
+.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp: C:/Qt/6.11.1/mingw_64/bin/qmlcachegen.exe
+.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp: C:/Users/dimi/Documents/projettback/Buttoncircle.qml
+.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp: .qt/rcc/qmake_projettback.qrc
+.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp: .qt/rcc/appprojettback_raw_qml_0.qrc
+.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp: .qt/rcc/appprojettback_raw_res_0.qrc
+.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp: projettback/appprojettback.qmltypes
+.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp: projettback/qmldir
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Generating .rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp, .rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.aotstats"
+	C:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache
+	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.11.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/projettback/Buttoncircle.qml -I C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug -I C:/Qt/6.11.1/mingw_64/qml -i C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/projettback/qmldir --resource C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qmake_projettback.qrc --resource C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/appprojettback_raw_qml_0.qrc --resource C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/appprojettback_raw_res_0.qrc --dump-aot-stats --module-id=projettback(appprojettback) -o C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp C:/Users/dimi/Documents/projettback/Buttoncircle.qml
+
+.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.aotstats: .rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp
+	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appprojettback_Buttoncircle_qml.cpp.aotstats
+
 .qt/rcc/qrc_appprojettback_raw_qml_0.cpp: C:/Users/dimi/Documents/projettback/Main.qml
 .qt/rcc/qrc_appprojettback_raw_qml_0.cpp: C:/Users/dimi/Documents/projettback/Mybutton.qml
-.qt/rcc/qrc_appprojettback_raw_qml_0.cpp: C:/Users/dimi/Documents/projettback/TrianButt.qml
+.qt/rcc/qrc_appprojettback_raw_qml_0.cpp: C:/Users/dimi/Documents/projettback/trianButt.qml
+.qt/rcc/qrc_appprojettback_raw_qml_0.cpp: C:/Users/dimi/Documents/projettback/Buttoncircle.qml
+.qt/rcc/qrc_appprojettback_raw_qml_0.cpp: C:/Users/dimi/Documents/projettback/gradient.frag.qsb
+.qt/rcc/qrc_appprojettback_raw_qml_0.cpp: C:/Users/dimi/Documents/projettback/fullscreen.vert.qsb
 .qt/rcc/qrc_appprojettback_raw_qml_0.cpp: .qt/rcc/appprojettback_raw_qml_0.qrc
 .qt/rcc/qrc_appprojettback_raw_qml_0.cpp: C:/Qt/6.11.1/mingw_64/bin/rcc.exe
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Running rcc for resource appprojettback_raw_qml_0"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Running rcc for resource appprojettback_raw_qml_0"
 	C:\Qt\6.11.1\mingw_64\bin\rcc.exe --output C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_qml_0.cpp --name appprojettback_raw_qml_0 C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/appprojettback_raw_qml_0.qrc --no-zstd
 
+.qt/rcc/qrc_appprojettback_raw_res_0.cpp: C:/Users/dimi/Documents/projettback/logo.png
 .qt/rcc/qrc_appprojettback_raw_res_0.cpp: C:/Users/dimi/Documents/projettback/background.gif
 .qt/rcc/qrc_appprojettback_raw_res_0.cpp: .qt/rcc/appprojettback_raw_res_0.qrc
 .qt/rcc/qrc_appprojettback_raw_res_0.cpp: C:/Qt/6.11.1/mingw_64/bin/rcc.exe
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Running rcc for resource appprojettback_raw_res_0"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Running rcc for resource appprojettback_raw_res_0"
 	C:\Qt\6.11.1\mingw_64\bin\rcc.exe --output C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.cpp --name appprojettback_raw_res_0 C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/appprojettback_raw_res_0.qrc --no-zstd
 
 appprojettback_autogen/timestamp: C:/Qt/6.11.1/mingw_64/bin/moc.exe
 appprojettback_autogen/timestamp: CMakeFiles/appprojettback.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Automatic MOC and UIC for target appprojettback"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Automatic MOC and UIC for target appprojettback"
 	C:\Qt\Tools\CMake_64\bin\cmake.exe -E cmake_autogen C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/appprojettback_autogen.dir/AutogenInfo.json Debug
 	C:\Qt\Tools\CMake_64\bin\cmake.exe -E touch C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/appprojettback_autogen/timestamp
 
 meta_types/appprojettback_json_file_list.txt: C:/Qt/6.11.1/mingw_64/bin/cmake_automoc_parser.exe
 meta_types/appprojettback_json_file_list.txt: appprojettback_autogen/timestamp
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Running AUTOMOC file extraction for target appprojettback"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Running AUTOMOC file extraction for target appprojettback"
 	C:\Qt\6.11.1\mingw_64\bin\cmake_automoc_parser.exe --cmake-autogen-cache-file C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/appprojettback_autogen.dir/ParseCache.txt --cmake-autogen-info-file C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/appprojettback_autogen.dir/AutogenInfo.json --output-file-path C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/meta_types/appprojettback_json_file_list.txt --timestamp-file-path C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/meta_types/appprojettback_json_file_list.txt.timestamp --cmake-autogen-include-dir-path C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/appprojettback_autogen/include
 
 meta_types/qt6appprojettback_metatypes.json: meta_types/qt6appprojettback_metatypes.json.gen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Generating meta_types/qt6appprojettback_metatypes.json"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Generating meta_types/qt6appprojettback_metatypes.json"
 	C:\Qt\Tools\CMake_64\bin\cmake.exe -E true
 
 CMakeFiles/appprojettback.dir/appprojettback_autogen/mocs_compilation.cpp.obj: CMakeFiles/appprojettback.dir/flags.make
 CMakeFiles/appprojettback.dir/appprojettback_autogen/mocs_compilation.cpp.obj: CMakeFiles/appprojettback.dir/includes_CXX.rsp
 CMakeFiles/appprojettback.dir/appprojettback_autogen/mocs_compilation.cpp.obj: appprojettback_autogen/mocs_compilation.cpp
 CMakeFiles/appprojettback.dir/appprojettback_autogen/mocs_compilation.cpp.obj: CMakeFiles/appprojettback.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/appprojettback.dir/appprojettback_autogen/mocs_compilation.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/appprojettback.dir/appprojettback_autogen/mocs_compilation.cpp.obj"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appprojettback.dir/appprojettback_autogen/mocs_compilation.cpp.obj -MF CMakeFiles\appprojettback.dir\appprojettback_autogen\mocs_compilation.cpp.obj.d -o CMakeFiles\appprojettback.dir\appprojettback_autogen\mocs_compilation.cpp.obj -c C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\appprojettback_autogen\mocs_compilation.cpp
 
 CMakeFiles/appprojettback.dir/appprojettback_autogen/mocs_compilation.cpp.i: cmake_force
@@ -195,7 +215,7 @@ CMakeFiles/appprojettback.dir/main.cpp.obj: CMakeFiles/appprojettback.dir/flags.
 CMakeFiles/appprojettback.dir/main.cpp.obj: CMakeFiles/appprojettback.dir/includes_CXX.rsp
 CMakeFiles/appprojettback.dir/main.cpp.obj: C:/Users/dimi/Documents/projettback/main.cpp
 CMakeFiles/appprojettback.dir/main.cpp.obj: CMakeFiles/appprojettback.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/appprojettback.dir/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/appprojettback.dir/main.cpp.obj"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appprojettback.dir/main.cpp.obj -MF CMakeFiles\appprojettback.dir\main.cpp.obj.d -o CMakeFiles\appprojettback.dir\main.cpp.obj -c C:\Users\dimi\Documents\projettback\main.cpp
 
 CMakeFiles/appprojettback.dir/main.cpp.i: cmake_force
@@ -210,7 +230,7 @@ CMakeFiles/appprojettback.dir/appprojettback_qmltyperegistrations.cpp.obj: CMake
 CMakeFiles/appprojettback.dir/appprojettback_qmltyperegistrations.cpp.obj: CMakeFiles/appprojettback.dir/includes_CXX.rsp
 CMakeFiles/appprojettback.dir/appprojettback_qmltyperegistrations.cpp.obj: appprojettback_qmltyperegistrations.cpp
 CMakeFiles/appprojettback.dir/appprojettback_qmltyperegistrations.cpp.obj: CMakeFiles/appprojettback.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/appprojettback.dir/appprojettback_qmltyperegistrations.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/appprojettback.dir/appprojettback_qmltyperegistrations.cpp.obj"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -Wa,-mbig-obj -MD -MT CMakeFiles/appprojettback.dir/appprojettback_qmltyperegistrations.cpp.obj -MF CMakeFiles\appprojettback.dir\appprojettback_qmltyperegistrations.cpp.obj.d -o CMakeFiles\appprojettback.dir\appprojettback_qmltyperegistrations.cpp.obj -c C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\appprojettback_qmltyperegistrations.cpp
 
 CMakeFiles/appprojettback.dir/appprojettback_qmltyperegistrations.cpp.i: cmake_force
@@ -225,7 +245,7 @@ CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_projettback.cpp.obj: CMakeFiles/appprojettback.dir/includes_CXX.rsp
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_projettback.cpp.obj: .qt/rcc/qrc_qmake_projettback.cpp
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_projettback.cpp.obj: CMakeFiles/appprojettback.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_projettback.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_projettback.cpp.obj"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_projettback.cpp.obj -MF CMakeFiles\appprojettback.dir\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.qt\rcc\qrc_qmake_projettback.cpp.obj.d -o CMakeFiles\appprojettback.dir\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.qt\rcc\qrc_qmake_projettback.cpp.obj -c C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.qt\rcc\qrc_qmake_projettback.cpp
 
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_projettback.cpp.i: cmake_force
@@ -240,7 +260,7 @@ CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qm
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_qmlcache_loader.cpp.obj: CMakeFiles/appprojettback.dir/includes_CXX.rsp
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_qmlcache_loader.cpp.obj: .rcc/qmlcache/appprojettback_qmlcache_loader.cpp
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_qmlcache_loader.cpp.obj: CMakeFiles/appprojettback.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_qmlcache_loader.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_qmlcache_loader.cpp.obj"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_qmlcache_loader.cpp.obj -MF CMakeFiles\appprojettback.dir\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.rcc\qmlcache\appprojettback_qmlcache_loader.cpp.obj.d -o CMakeFiles\appprojettback.dir\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.rcc\qmlcache\appprojettback_qmlcache_loader.cpp.obj -c C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.rcc\qmlcache\appprojettback_qmlcache_loader.cpp
 
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_qmlcache_loader.cpp.i: cmake_force
@@ -255,7 +275,7 @@ CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qm
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Main_qml.cpp.obj: CMakeFiles/appprojettback.dir/includes_CXX.rsp
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Main_qml.cpp.obj: .rcc/qmlcache/appprojettback_Main_qml.cpp
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Main_qml.cpp.obj: CMakeFiles/appprojettback.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Main_qml.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Main_qml.cpp.obj"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Main_qml.cpp.obj -MF CMakeFiles\appprojettback.dir\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.rcc\qmlcache\appprojettback_Main_qml.cpp.obj.d -o CMakeFiles\appprojettback.dir\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.rcc\qmlcache\appprojettback_Main_qml.cpp.obj -c C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.rcc\qmlcache\appprojettback_Main_qml.cpp
 
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Main_qml.cpp.i: cmake_force
@@ -270,7 +290,7 @@ CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qm
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Mybutton_qml.cpp.obj: CMakeFiles/appprojettback.dir/includes_CXX.rsp
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Mybutton_qml.cpp.obj: .rcc/qmlcache/appprojettback_Mybutton_qml.cpp
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Mybutton_qml.cpp.obj: CMakeFiles/appprojettback.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Mybutton_qml.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Mybutton_qml.cpp.obj"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Mybutton_qml.cpp.obj -MF CMakeFiles\appprojettback.dir\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.rcc\qmlcache\appprojettback_Mybutton_qml.cpp.obj.d -o CMakeFiles\appprojettback.dir\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.rcc\qmlcache\appprojettback_Mybutton_qml.cpp.obj -c C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.rcc\qmlcache\appprojettback_Mybutton_qml.cpp
 
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Mybutton_qml.cpp.i: cmake_force
@@ -285,7 +305,7 @@ CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qm
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.cpp.obj: CMakeFiles/appprojettback.dir/includes_CXX.rsp
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.cpp.obj: .rcc/qmlcache/appprojettback_trianButt_qml.cpp
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.cpp.obj: CMakeFiles/appprojettback.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.cpp.obj"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.cpp.obj -MF CMakeFiles\appprojettback.dir\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.rcc\qmlcache\appprojettback_trianButt_qml.cpp.obj.d -o CMakeFiles\appprojettback.dir\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.rcc\qmlcache\appprojettback_trianButt_qml.cpp.obj -c C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.rcc\qmlcache\appprojettback_trianButt_qml.cpp
 
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.cpp.i: cmake_force
@@ -296,11 +316,26 @@ CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qm
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.cpp.s"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.rcc\qmlcache\appprojettback_trianButt_qml.cpp -o CMakeFiles\appprojettback.dir\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.rcc\qmlcache\appprojettback_trianButt_qml.cpp.s
 
+CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.obj: CMakeFiles/appprojettback.dir/flags.make
+CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.obj: CMakeFiles/appprojettback.dir/includes_CXX.rsp
+CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.obj: .rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp
+CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.obj: CMakeFiles/appprojettback.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.obj"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.obj -MF CMakeFiles\appprojettback.dir\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.rcc\qmlcache\appprojettback_Buttoncircle_qml.cpp.obj.d -o CMakeFiles\appprojettback.dir\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.rcc\qmlcache\appprojettback_Buttoncircle_qml.cpp.obj -c C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.rcc\qmlcache\appprojettback_Buttoncircle_qml.cpp
+
+CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.i"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.rcc\qmlcache\appprojettback_Buttoncircle_qml.cpp > CMakeFiles\appprojettback.dir\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.rcc\qmlcache\appprojettback_Buttoncircle_qml.cpp.i
+
+CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.s"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.rcc\qmlcache\appprojettback_Buttoncircle_qml.cpp -o CMakeFiles\appprojettback.dir\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.rcc\qmlcache\appprojettback_Buttoncircle_qml.cpp.s
+
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_qml_0.cpp.obj: CMakeFiles/appprojettback.dir/flags.make
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_qml_0.cpp.obj: CMakeFiles/appprojettback.dir/includes_CXX.rsp
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_qml_0.cpp.obj: .qt/rcc/qrc_appprojettback_raw_qml_0.cpp
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_qml_0.cpp.obj: CMakeFiles/appprojettback.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_qml_0.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_qml_0.cpp.obj"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_qml_0.cpp.obj -MF CMakeFiles\appprojettback.dir\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.qt\rcc\qrc_appprojettback_raw_qml_0.cpp.obj.d -o CMakeFiles\appprojettback.dir\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.qt\rcc\qrc_appprojettback_raw_qml_0.cpp.obj -c C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.qt\rcc\qrc_appprojettback_raw_qml_0.cpp
 
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_qml_0.cpp.i: cmake_force
@@ -315,7 +350,7 @@ CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.cpp.obj: CMakeFiles/appprojettback.dir/includes_CXX.rsp
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.cpp.obj: .qt/rcc/qrc_appprojettback_raw_res_0.cpp
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.cpp.obj: CMakeFiles/appprojettback.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.cpp.obj"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.cpp.obj -MF CMakeFiles\appprojettback.dir\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.qt\rcc\qrc_appprojettback_raw_res_0.cpp.obj.d -o CMakeFiles\appprojettback.dir\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.qt\rcc\qrc_appprojettback_raw_res_0.cpp.obj -c C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.qt\rcc\qrc_appprojettback_raw_res_0.cpp
 
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.cpp.i: cmake_force
@@ -336,6 +371,7 @@ appprojettback_OBJECTS = \
 "CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Main_qml.cpp.obj" \
 "CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Mybutton_qml.cpp.obj" \
 "CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.cpp.obj" \
+"CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.obj" \
 "CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_qml_0.cpp.obj" \
 "CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.cpp.obj"
 
@@ -350,9 +386,12 @@ appprojettback.exe: CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_
 appprojettback.exe: CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Main_qml.cpp.obj
 appprojettback.exe: CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Mybutton_qml.cpp.obj
 appprojettback.exe: CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.cpp.obj
+appprojettback.exe: CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.obj
 appprojettback.exe: CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_qml_0.cpp.obj
 appprojettback.exe: CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.cpp.obj
 appprojettback.exe: CMakeFiles/appprojettback.dir/build.make
+appprojettback.exe: C:/Qt/6.11.1/mingw_64/lib/libQt6QuickControls2.a
+appprojettback.exe: C:/Qt/6.11.1/mingw_64/lib/libQt6Core5Compat.a
 appprojettback.exe: C:/Qt/6.11.1/mingw_64/lib/libQt6Quick.a
 appprojettback.exe: C:/Qt/6.11.1/mingw_64/lib/libQt6OpenGL.a
 appprojettback.exe: C:/Qt/6.11.1/mingw_64/lib/libQt6Gui.a
@@ -364,7 +403,7 @@ appprojettback.exe: appprojettback.exe.manifest
 appprojettback.exe: CMakeFiles/appprojettback.dir/linkLibs.rsp
 appprojettback.exe: CMakeFiles/appprojettback.dir/objects1.rsp
 appprojettback.exe: CMakeFiles/appprojettback.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Linking CXX executable appprojettback.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Linking CXX executable appprojettback.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\appprojettback.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -378,6 +417,8 @@ CMakeFiles/appprojettback.dir/clean:
 CMakeFiles/appprojettback.dir/depend: .qt/rcc/qrc_appprojettback_raw_qml_0.cpp
 CMakeFiles/appprojettback.dir/depend: .qt/rcc/qrc_appprojettback_raw_res_0.cpp
 CMakeFiles/appprojettback.dir/depend: .qt/rcc/qrc_qmake_projettback.cpp
+CMakeFiles/appprojettback.dir/depend: .rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp
+CMakeFiles/appprojettback.dir/depend: .rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.aotstats
 CMakeFiles/appprojettback.dir/depend: .rcc/qmlcache/appprojettback_Main_qml.cpp
 CMakeFiles/appprojettback.dir/depend: .rcc/qmlcache/appprojettback_Main_qml.cpp.aotstats
 CMakeFiles/appprojettback.dir/depend: .rcc/qmlcache/appprojettback_Mybutton_qml.cpp

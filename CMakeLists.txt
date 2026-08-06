@@ -4,7 +4,7 @@ project(projettback VERSION 0.1 LANGUAGES CXX)
 
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-find_package(Qt6 REQUIRED COMPONENTS Quick)
+find_package(Qt6 REQUIRED COMPONENTS Quick Quick QuickControls2 Core5Compat)
 
 qt_standard_project_setup(REQUIRES 6.10)
 
@@ -23,8 +23,12 @@ qt_add_qml_module(appprojettback
         Main.qml
         Mybutton.qml
         RESOURCES
+                logo.png
                 background.gif
                 QML_FILES TrianButt.qml
+                QML_FILES Buttoncircle.qml
+                gradient.frag.qsb
+                fullscreen.vert.qsb
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
@@ -40,6 +44,8 @@ set_target_properties(appprojettback PROPERTIES
 
 target_link_libraries(appprojettback
     PRIVATE Qt6::Quick
+            Qt6::QuickControls2
+            Qt6::Core5Compat
 )
 
 install(TARGETS appprojettback

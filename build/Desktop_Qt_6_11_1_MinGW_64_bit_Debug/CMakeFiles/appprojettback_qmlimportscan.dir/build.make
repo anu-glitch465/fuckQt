@@ -73,7 +73,10 @@ CMakeFiles/appprojettback_qmlimportscan: .qt/qml_imports/appprojettback_build.cm
 .qt/qml_imports/appprojettback_build.cmake: .qt/rcc/appprojettback_raw_res_0.qrc
 .qt/qml_imports/appprojettback_build.cmake: C:/Users/dimi/Documents/projettback/Main.qml
 .qt/qml_imports/appprojettback_build.cmake: C:/Users/dimi/Documents/projettback/Mybutton.qml
-.qt/qml_imports/appprojettback_build.cmake: C:/Users/dimi/Documents/projettback/TrianButt.qml
+.qt/qml_imports/appprojettback_build.cmake: C:/Users/dimi/Documents/projettback/trianButt.qml
+.qt/qml_imports/appprojettback_build.cmake: C:/Users/dimi/Documents/projettback/Buttoncircle.qml
+.qt/qml_imports/appprojettback_build.cmake: C:/Users/dimi/Documents/projettback/gradient.frag.qsb
+.qt/qml_imports/appprojettback_build.cmake: C:/Users/dimi/Documents/projettback/fullscreen.vert.qsb
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Running qmlimportscanner for appprojettback"
 	cd /d C:\Users\dimi\Documents\projettback && call C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\.qt\bin\qt_setup_tool_path.bat C:/Qt/6.11.1/mingw_64/bin/qmlimportscanner.exe @C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/qml_imports/appprojettback_build.rsp
 

@@ -399,4 +399,18 @@ CMakeFiles/appprojettback.dir/main.cpp.obj: \
  C:/Qt/6.11.1/mingw_64/include/QtQml/qqmlregistration.h \
  C:/Qt/6.11.1/mingw_64/include/QtQmlIntegration/qqmlintegration.h \
  C:/Qt/6.11.1/mingw_64/include/QtQml/qqmlerror.h \
- C:/Qt/6.11.1/mingw_64/include/QtQml/qqmlabstracturlinterceptor.h
+ C:/Qt/6.11.1/mingw_64/include/QtQml/qqmlabstracturlinterceptor.h \
+ C:/Qt/6.11.1/mingw_64/include/QtOpenGL/QOpenGLShaderProgram \
+ C:/Qt/6.11.1/mingw_64/include/QtOpenGL/qopenglshaderprogram.h \
+ C:/Qt/6.11.1/mingw_64/include/QtOpenGL/qtopenglglobal.h \
+ C:/Qt/6.11.1/mingw_64/include/QtOpenGL/qtopenglexports.h \
+ C:/Qt/6.11.1/mingw_64/include/QtGui/qopengl.h \
+ C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/GL/gl.h \
+ C:/Qt/6.11.1/mingw_64/include/QtGui/qopenglext.h \
+ C:/Qt/6.11.1/mingw_64/include/QtGui/qvector2d.h \
+ C:/Qt/6.11.1/mingw_64/include/QtGui/qvectornd.h \
+ C:/Qt/6.11.1/mingw_64/include/QtCore/qrect.h \
+ C:/Qt/6.11.1/mingw_64/include/QtGui/qvector3d.h \
+ C:/Qt/6.11.1/mingw_64/include/QtGui/qvector4d.h \
+ C:/Qt/6.11.1/mingw_64/include/QtGui/qmatrix4x4.h \
+ C:/Qt/6.11.1/mingw_64/include/QtGui/qgenericmatrix.h

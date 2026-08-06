@@ -1,5 +1,6 @@
 <RCC>
   <qresource prefix="/qt/qml/projettback/">
+    <file alias="logo.png">C:/Users/dimi/Documents/projettback/logo.png</file>
     <file alias="background.gif">C:/Users/dimi/Documents/projettback/background.gif</file>
   </qresource>
 </RCC>

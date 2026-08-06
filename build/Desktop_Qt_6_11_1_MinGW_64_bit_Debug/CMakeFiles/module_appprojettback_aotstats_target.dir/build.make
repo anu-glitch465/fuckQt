@@ -70,9 +70,24 @@ CMakeFiles/module_appprojettback_aotstats_target: .rcc/qmlcache/module_appprojet
 .rcc/qmlcache/module_appprojettback.aotstats: .rcc/qmlcache/appprojettback_Main_qml.cpp.aotstats
 .rcc/qmlcache/module_appprojettback.aotstats: .rcc/qmlcache/appprojettback_Mybutton_qml.cpp.aotstats
 .rcc/qmlcache/module_appprojettback.aotstats: .rcc/qmlcache/appprojettback_trianButt_qml.cpp.aotstats
+.rcc/qmlcache/module_appprojettback.aotstats: .rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.aotstats
 .rcc/qmlcache/module_appprojettback.aotstats: .rcc/qmlcache/module_appprojettback.aotstatslist
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating .rcc/qmlcache/module_appprojettback.aotstats"
 	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.11.1/mingw_64/bin/qmlaotstats.exe aggregate C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/module_appprojettback.aotstatslist C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/module_appprojettback.aotstats
+
+.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp: C:/Qt/6.11.1/mingw_64/bin/qmlcachegen.exe
+.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp: C:/Users/dimi/Documents/projettback/Buttoncircle.qml
+.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp: .qt/rcc/qmake_projettback.qrc
+.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp: .qt/rcc/appprojettback_raw_qml_0.qrc
+.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp: .qt/rcc/appprojettback_raw_res_0.qrc
+.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp: projettback/appprojettback.qmltypes
+.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp: projettback/qmldir
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating .rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp, .rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.aotstats"
+	C:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache
+	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.11.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/projettback/Buttoncircle.qml -I C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug -I C:/Qt/6.11.1/mingw_64/qml -i C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/projettback/qmldir --resource C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qmake_projettback.qrc --resource C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/appprojettback_raw_qml_0.qrc --resource C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/appprojettback_raw_res_0.qrc --dump-aot-stats --module-id=projettback(appprojettback) -o C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp C:/Users/dimi/Documents/projettback/Buttoncircle.qml
+
+.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.aotstats: .rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp
+	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appprojettback_Buttoncircle_qml.cpp.aotstats
 
 .rcc/qmlcache/appprojettback_Main_qml.cpp: C:/Qt/6.11.1/mingw_64/bin/qmlcachegen.exe
 .rcc/qmlcache/appprojettback_Main_qml.cpp: C:/Users/dimi/Documents/projettback/Main.qml
@@ -81,7 +96,7 @@ CMakeFiles/module_appprojettback_aotstats_target: .rcc/qmlcache/module_appprojet
 .rcc/qmlcache/appprojettback_Main_qml.cpp: .qt/rcc/appprojettback_raw_res_0.qrc
 .rcc/qmlcache/appprojettback_Main_qml.cpp: projettback/appprojettback.qmltypes
 .rcc/qmlcache/appprojettback_Main_qml.cpp: projettback/qmldir
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating .rcc/qmlcache/appprojettback_Main_qml.cpp, .rcc/qmlcache/appprojettback_Main_qml.cpp.aotstats"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Generating .rcc/qmlcache/appprojettback_Main_qml.cpp, .rcc/qmlcache/appprojettback_Main_qml.cpp.aotstats"
 	C:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache
 	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.11.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/projettback/Main.qml -I C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug -I C:/Qt/6.11.1/mingw_64/qml -i C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/projettback/qmldir --resource C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qmake_projettback.qrc --resource C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/appprojettback_raw_qml_0.qrc --resource C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/appprojettback_raw_res_0.qrc --dump-aot-stats --module-id=projettback(appprojettback) -o C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Main_qml.cpp C:/Users/dimi/Documents/projettback/Main.qml
 
@@ -95,7 +110,7 @@ CMakeFiles/module_appprojettback_aotstats_target: .rcc/qmlcache/module_appprojet
 .rcc/qmlcache/appprojettback_Mybutton_qml.cpp: .qt/rcc/appprojettback_raw_res_0.qrc
 .rcc/qmlcache/appprojettback_Mybutton_qml.cpp: projettback/appprojettback.qmltypes
 .rcc/qmlcache/appprojettback_Mybutton_qml.cpp: projettback/qmldir
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Generating .rcc/qmlcache/appprojettback_Mybutton_qml.cpp, .rcc/qmlcache/appprojettback_Mybutton_qml.cpp.aotstats"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Generating .rcc/qmlcache/appprojettback_Mybutton_qml.cpp, .rcc/qmlcache/appprojettback_Mybutton_qml.cpp.aotstats"
 	C:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache
 	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.11.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/projettback/Mybutton.qml -I C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug -I C:/Qt/6.11.1/mingw_64/qml -i C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/projettback/qmldir --resource C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qmake_projettback.qrc --resource C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/appprojettback_raw_qml_0.qrc --resource C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/appprojettback_raw_res_0.qrc --dump-aot-stats --module-id=projettback(appprojettback) -o C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Mybutton_qml.cpp C:/Users/dimi/Documents/projettback/Mybutton.qml
 
@@ -103,19 +118,21 @@ CMakeFiles/module_appprojettback_aotstats_target: .rcc/qmlcache/module_appprojet
 	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appprojettback_Mybutton_qml.cpp.aotstats
 
 .rcc/qmlcache/appprojettback_trianButt_qml.cpp: C:/Qt/6.11.1/mingw_64/bin/qmlcachegen.exe
-.rcc/qmlcache/appprojettback_trianButt_qml.cpp: C:/Users/dimi/Documents/projettback/TrianButt.qml
+.rcc/qmlcache/appprojettback_trianButt_qml.cpp: C:/Users/dimi/Documents/projettback/trianButt.qml
 .rcc/qmlcache/appprojettback_trianButt_qml.cpp: .qt/rcc/qmake_projettback.qrc
 .rcc/qmlcache/appprojettback_trianButt_qml.cpp: .qt/rcc/appprojettback_raw_qml_0.qrc
 .rcc/qmlcache/appprojettback_trianButt_qml.cpp: .qt/rcc/appprojettback_raw_res_0.qrc
 .rcc/qmlcache/appprojettback_trianButt_qml.cpp: projettback/appprojettback.qmltypes
 .rcc/qmlcache/appprojettback_trianButt_qml.cpp: projettback/qmldir
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Generating .rcc/qmlcache/appprojettback_trianButt_qml.cpp, .rcc/qmlcache/appprojettback_trianButt_qml.cpp.aotstats"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\dimi\Documents\projettback\build\Desktop_Qt_6_11_1_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Generating .rcc/qmlcache/appprojettback_trianButt_qml.cpp, .rcc/qmlcache/appprojettback_trianButt_qml.cpp.aotstats"
 	C:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache
-	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.11.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/projettback/TrianButt.qml -I C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug -I C:/Qt/6.11.1/mingw_64/qml -i C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/projettback/qmldir --resource C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qmake_projettback.qrc --resource C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/appprojettback_raw_qml_0.qrc --resource C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/appprojettback_raw_res_0.qrc --dump-aot-stats --module-id=projettback(appprojettback) -o C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_TrianButt_qml.cpp C:/Users/dimi/Documents/projettback/TrianButt.qml
+	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.11.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/projettback/TrianButt.qml -I C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug -I C:/Qt/6.11.1/mingw_64/qml -i C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/projettback/qmldir --resource C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qmake_projettback.qrc --resource C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/appprojettback_raw_qml_0.qrc --resource C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/appprojettback_raw_res_0.qrc --dump-aot-stats --module-id=projettback(appprojettback) -o C:/Users/dimi/Documents/projettback/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_trianButt_qml.cpp C:/Users/dimi/Documents/projettback/trianButt.qml
 
 .rcc/qmlcache/appprojettback_trianButt_qml.cpp.aotstats: .rcc/qmlcache/appprojettback_trianButt_qml.cpp
 	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appprojettback_trianButt_qml.cpp.aotstats
 
+module_appprojettback_aotstats_target: .rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp
+module_appprojettback_aotstats_target: .rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.aotstats
 module_appprojettback_aotstats_target: .rcc/qmlcache/appprojettback_Main_qml.cpp
 module_appprojettback_aotstats_target: .rcc/qmlcache/appprojettback_Main_qml.cpp.aotstats
 module_appprojettback_aotstats_target: .rcc/qmlcache/appprojettback_Mybutton_qml.cpp

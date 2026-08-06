@@ -527,6 +527,30 @@ build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_projettback.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appprojettback.dir\build.make CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_projettback.cpp.s
 .PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_projettback.cpp.s
 
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.obj: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.obj
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.obj
+
+# target to build an object file
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appprojettback.dir\build.make CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.obj
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.obj
+
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.i: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.i
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.i
+
+# target to preprocess a source file
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appprojettback.dir\build.make CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.i
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.i
+
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.s: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.s
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.s
+
+# target to generate assembly for a file
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appprojettback.dir\build.make CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.s
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.s
+
 build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Main_qml.obj: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Main_qml.cpp.obj
 .PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Main_qml.obj
 
@@ -693,6 +717,9 @@ help:
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_projettback.obj
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_projettback.i
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_projettback.s
+	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.obj
+	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.i
+	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.s
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Main_qml.obj
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Main_qml.i
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Main_qml.s

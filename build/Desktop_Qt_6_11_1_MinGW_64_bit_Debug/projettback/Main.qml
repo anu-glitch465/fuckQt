@@ -2,6 +2,7 @@ import QtQuick
 import QtQuick.Layouts
 import QtQuick.Controls.Basic
 import QtQuick.Effects
+import Qt5Compat.GraphicalEffects
 
 
 ApplicationWindow {
@@ -17,6 +18,22 @@ ApplicationWindow {
     property color dark: "#262626"
     property color reallyLight: "#e7e7e7"
     property color light: "#e0e0e0"
+Window{
+    visible: true
+        width: 800
+        height: 600
+
+        ShaderEffect {
+            anchors.fill: parent
+
+            vertexShader: "qrc:/shaders/fullscreen.vert.qsb"
+            fragmentShader: "qrc:/shaders/gradient.frag.qsb"
+
+            property vector2d u_resolution: Qt.vector2d(width, height)
+            property real u_time: 0.0
+            property vector2d u_mouse: Qt.vector2d(0, 0)
+        }
+}
 
     AnimatedImage{
         id: background
@@ -34,18 +51,24 @@ ApplicationWindow {
         blur: 0.8
     }
 
-    // Button {
-    //     width: 80
-    //     height: 80
+    Buttoncircle {
+        scale: mouse1.containsMouse ? 1.1 : 1.0
+        Behavior on scale {NumberAnimation {duration: 150; easing.type: Easing.OutCirc }}
 
-    //     background: Rectangle {
-    //         radius: width / 2
-    //         color: "blue"
-    //     }
+        MouseArea{
+        id: mouse1
+        anchors.fill: parent
+        hoverEnabled: true
+        }
+        onClicked: {
+            console.log("triangle clicked")
+        }
+    }
 
-    //     text: "OK"
-    // }
     TrianButt{
+        id: targetItem
+        x: 500
+        y:100
         width: 100
         height: 100
 
@@ -58,22 +81,40 @@ ApplicationWindow {
             }
         }
 
+
         MouseArea {
                id: mouse
                anchors.fill: parent
                hoverEnabled: true
            }
         shape: "triangle"
-        color: "red"
+        color: "#7B8EAB"
 
         onClicked: {
             console.log("triangle clicked")
         }
+    //     Glow {
+    //             anchors.fill: targetItem
+    //             source: targetItem
+
+    //             radius: 16              // Радиус свечения
+    //             color: "#00d2ff"         // Цвет
+    //             spread: 0.15            // Плотность у краев (от 0.0 до 1.0)
+    //             //fast: true               // Оптимизированный быстрый шейдер
+    //         }
     }
+    // Image {
+    //     width: 120
+    //     height: 100
+    //     id: name
+    //     source: "qrc:/qt/qml/projettback/logo.png"
+    // }
     Mybutton{
+        id: crug
         radius: 20
         color: "blue"
         text:"Truahat"
+
 }
 
     // GridLayout {

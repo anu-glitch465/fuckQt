@@ -7,7 +7,7 @@ Rectangle {
     y: 100
     width: 200
     height: 200
-    Text{
+       Text{
     text: root.text
     anchors.centerIn: parent
     color: "white"

@@ -8,7 +8,7 @@
                         {
                             "codegenResult": 2,
                             "column": 18,
-                            "durationMicroseconds": 1000,
+                            "durationMicroseconds": 2000,
                             "functionName": "onPaint",
                             "line": 21,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
@@ -54,7 +54,7 @@
                             "message": ""
                         }
                     ],
-                    "filePath": "C:/Users/dimi/Documents/projettback/TrianButt.qml"
+                    "filePath": "C:/Users/dimi/Documents/projettback/trianButt.qml"
                 }
             ],
             "moduleId": "projettback(appprojettback)"

@@ -3,6 +3,9 @@
     <file alias="Main.qml">C:/Users/dimi/Documents/projettback/Main.qml</file>
     <file alias="Mybutton.qml">C:/Users/dimi/Documents/projettback/Mybutton.qml</file>
     <file alias="TrianButt.qml">C:/Users/dimi/Documents/projettback/TrianButt.qml</file>
+    <file alias="Buttoncircle.qml">C:/Users/dimi/Documents/projettback/Buttoncircle.qml</file>
+    <file alias="gradient.frag.qsb">C:/Users/dimi/Documents/projettback/gradient.frag.qsb</file>
+    <file alias="fullscreen.vert.qsb">C:/Users/dimi/Documents/projettback/fullscreen.vert.qsb</file>
   </qresource>
 </RCC>
 

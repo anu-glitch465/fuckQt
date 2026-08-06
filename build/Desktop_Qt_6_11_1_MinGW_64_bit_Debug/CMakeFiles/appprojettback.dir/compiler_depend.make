@@ -72,6 +72,15 @@ appprojettback_autogen/timestamp: C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/FindWrapAt
   C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreTargets.cmake \
   C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreTargetsPrecheck.cmake \
   C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreVersionlessAliasTargets.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core5Compat/Qt6Core5CompatAdditionalTargetInfo.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core5Compat/Qt6Core5CompatConfig.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core5Compat/Qt6Core5CompatConfigVersion.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core5Compat/Qt6Core5CompatConfigVersionImpl.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core5Compat/Qt6Core5CompatDependencies.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core5Compat/Qt6Core5CompatTargets-relwithdebinfo.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core5Compat/Qt6Core5CompatTargets.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core5Compat/Qt6Core5CompatTargetsPrecheck.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core5Compat/Qt6Core5CompatVersionlessAliasTargets.cmake \
   C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsAdditionalTargetInfo.cmake \
   C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake \
   C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake \
@@ -329,6 +338,16 @@ appprojettback_autogen/timestamp: C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/FindWrapAt
   C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtchartsqml2Targets-relwithdebinfo.cmake \
   C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtchartsqml2Targets.cmake \
   C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtchartsqml2TargetsPrecheck.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginAdditionalTargetInfo.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginConfig.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginTargets-relwithdebinfo.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginTargets.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginTargetsPrecheck.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectsprivateAdditionalTargetInfo.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectsprivateConfig.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectsprivateTargets-relwithdebinfo.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectsprivateTargets.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectsprivateTargetsPrecheck.cmake \
   C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtqmlcorepluginAdditionalTargetInfo.cmake \
   C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtqmlcorepluginConfig.cmake \
   C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtqmlcorepluginTargets-relwithdebinfo.cmake \
@@ -658,6 +677,24 @@ appprojettback_autogen/timestamp: C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/FindWrapAt
   C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickTargets.cmake \
   C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickTargetsPrecheck.cmake \
   C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickVersionlessAliasTargets.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2AdditionalTargetInfo.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2Config.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2ConfigVersion.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2ConfigVersionImpl.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2Dependencies.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2Targets-relwithdebinfo.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2Targets.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2TargetsPrecheck.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2VersionlessAliasTargets.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2AdditionalTargetInfo.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2Config.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2ConfigVersion.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2ConfigVersionImpl.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2Dependencies.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2Targets-relwithdebinfo.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2Targets.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2TargetsPrecheck.cmake \
+  C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2VersionlessAliasTargets.cmake \
   C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickToolsAdditionalTargetInfo.cmake \
   C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickToolsConfig.cmake \
   C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickToolsConfigVersion.cmake \
@@ -1100,6 +1137,387 @@ CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appprojettback_raw_res_0.cpp.obj: .qt/rcc/qrc_appprojettback_raw_res_0.cpp
 
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_projettback.cpp.obj: .qt/rcc/qrc_qmake_projettback.cpp
+
+CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp.obj: .rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/q17memory.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/q20bit.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/q20functional.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/q20iterator.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/q20memory.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/q20type_traits.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/q20utility.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/q23type_traits.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/q23utility.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qalgorithms.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qalloc.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qanystringview.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qarraydata.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qarraydataops.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qarraydatapointer.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qassert.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qatomic.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qatomic_cxx11.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qbasicatomic.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qbindingstorage.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qbytearray.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qbytearrayalgorithms.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qbytearraylist.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qbytearrayview.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qcalendar.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qchar.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qcompare.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qcompare_impl.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qcomparehelpers.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qcompilerdetection.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qconfig.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qconstructormacros.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qcontainerfwd.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qcontainerinfo.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qcontainertools_impl.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qcontiguouscache.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qdarwinhelpers.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qdatastream.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qdatetime.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qdebug.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qexceptionhandling.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qflags.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qfloat16.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qforeach.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qfunctionaltools_impl.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qfunctionpointer.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qgenericatomic.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qglobal.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qglobalstatic.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qhash.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qhashfunctions.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qiodevicebase.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qiterable.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qiterable_impl.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qiterator.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qlatin1stringview.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qlist.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qlocale.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qlogging.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qmalloc.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qmap.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qmath.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qmetacontainer.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qmetaobject.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qmetasequence.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qmetatype.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qminmax.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qnamespace.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qnumeric.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qobject.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qobject_impl.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qobjectdefs.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qobjectdefs_impl.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qoverload.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qpair.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qpointer.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qprocessordetection.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qrefcount.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qscopedpointer.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qscopeguard.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qset.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qshareddata.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qshareddata_impl.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qsharedpointer.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qsharedpointer_impl.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qspan.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qstdlibdetection.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qstring.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qstringalgorithms.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qstringbuilder.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qstringconverter.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qstringconverter_base.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qstringfwd.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qstringlist.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qstringmatcher.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qstringtokenizer.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qstringview.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qswap.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qsysinfo.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qsystemdetection.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qtaggedpointer.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qtclasshelpermacros.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qtconfiginclude.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qtconfigmacros.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qtcore-config.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qtcoreexports.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qtcoreglobal.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qtdeprecationdefinitions.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qtdeprecationmarkers.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qtenvironmentvariables.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qtextstream.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qtformat_impl.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qtimezone.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qtmetamacros.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qtnoop.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qtpreprocessorsupport.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qtresource.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qttranslation.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qttypetraits.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qtversion.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qtversionchecks.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qtypeinfo.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qtyperevision.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qtypes.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qurl.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qutf8stringview.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qvariant.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qvarlengtharray.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qversionnumber.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qversiontagging.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qxptype_traits.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qyieldcpu.h \
+  C:/Qt/6.11.1/mingw_64/include/QtNetwork/qtnetwork-config.h \
+  C:/Qt/6.11.1/mingw_64/include/QtNetwork/qtnetworkexports.h \
+  C:/Qt/6.11.1/mingw_64/include/QtNetwork/qtnetworkglobal.h \
+  C:/Qt/6.11.1/mingw_64/include/QtQml/qjsengine.h \
+  C:/Qt/6.11.1/mingw_64/include/QtQml/qjsmanagedvalue.h \
+  C:/Qt/6.11.1/mingw_64/include/QtQml/qjsnumbercoercion.h \
+  C:/Qt/6.11.1/mingw_64/include/QtQml/qjsprimitivevalue.h \
+  C:/Qt/6.11.1/mingw_64/include/QtQml/qjsvalue.h \
+  C:/Qt/6.11.1/mingw_64/include/QtQml/qqml.h \
+  C:/Qt/6.11.1/mingw_64/include/QtQml/qqmlabstracturlinterceptor.h \
+  C:/Qt/6.11.1/mingw_64/include/QtQml/qqmlcomponent.h \
+  C:/Qt/6.11.1/mingw_64/include/QtQml/qqmlcontext.h \
+  C:/Qt/6.11.1/mingw_64/include/QtQml/qqmldebug.h \
+  C:/Qt/6.11.1/mingw_64/include/QtQml/qqmlengine.h \
+  C:/Qt/6.11.1/mingw_64/include/QtQml/qqmlerror.h \
+  C:/Qt/6.11.1/mingw_64/include/QtQml/qqmllist.h \
+  C:/Qt/6.11.1/mingw_64/include/QtQml/qqmlparserstatus.h \
+  C:/Qt/6.11.1/mingw_64/include/QtQml/qqmlprivate.h \
+  C:/Qt/6.11.1/mingw_64/include/QtQml/qqmlpropertyvaluesource.h \
+  C:/Qt/6.11.1/mingw_64/include/QtQml/qqmlregistration.h \
+  C:/Qt/6.11.1/mingw_64/include/QtQml/qtqml-config.h \
+  C:/Qt/6.11.1/mingw_64/include/QtQml/qtqmlexports.h \
+  C:/Qt/6.11.1/mingw_64/include/QtQml/qtqmlglobal.h \
+  C:/Qt/6.11.1/mingw_64/include/QtQmlIntegration/qqmlintegration.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/algorithm \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/array \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/atomic \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/auto_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/algorithmfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/align.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocated_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_lockfree_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/chrono.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/enable_special_members.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/erase_if.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable_policy.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/list.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/node_handle.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/parse_numbers.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_atomic.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/specfun.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_function.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algo.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_heap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_list.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_map.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multimap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multiset.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_numeric.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_raw_storage_iter.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_relops.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_set.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tree.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stream_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unique_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_map.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_set.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cassert \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/chrono \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/climits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/compare \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdint \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ctime \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/concurrence.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/functional \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iterator \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/list \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/map \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/memory \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/numeric \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/optional \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/execution_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_algorithm_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_memory_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_numeric_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ratio \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/set \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/beta_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/ell_integral.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/exp_integral.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/gamma.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/hypergeometric.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/legendre_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/modified_bessel_func.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_hermite.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_laguerre.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/riemann_zeta.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/special_function_util.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_map \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_set \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/utility \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/variant \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/version \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdarg.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdbool.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_mac.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stat64.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_timeval.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/assert.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_startup.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/crtdefs.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/ctype.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/errno.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/limits.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/locale.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/malloc.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/math.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/process.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_compat.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_signal.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_time.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_unistd.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/signal.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdarg.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stddef.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdint.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdio.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdlib.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/string.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/swprintf.inl \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/timeb.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/types.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/time.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h
 
 CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appprojettback_Main_qml.cpp.obj: .rcc/qmlcache/appprojettback_Main_qml.cpp \
   C:/Qt/6.11.1/mingw_64/include/QtCore/q17memory.h \
@@ -2649,8 +3067,7 @@ CMakeFiles/appprojettback.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qm
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/types.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/time.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
-  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
-  .rcc/qmlcache/appprojettback_TrianButt_qml.cpp
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h
 
 CMakeFiles/appprojettback.dir/main.cpp.obj: C:/Users/dimi/Documents/projettback/main.cpp \
   C:/Qt/6.11.1/mingw_64/include/QtCore/q17memory.h \
@@ -2741,6 +3158,7 @@ CMakeFiles/appprojettback.dir/main.cpp.obj: C:/Users/dimi/Documents/projettback/
   C:/Qt/6.11.1/mingw_64/include/QtCore/qpoint.h \
   C:/Qt/6.11.1/mingw_64/include/QtCore/qpointer.h \
   C:/Qt/6.11.1/mingw_64/include/QtCore/qprocessordetection.h \
+  C:/Qt/6.11.1/mingw_64/include/QtCore/qrect.h \
   C:/Qt/6.11.1/mingw_64/include/QtCore/qrefcount.h \
   C:/Qt/6.11.1/mingw_64/include/QtCore/qscopedpointer.h \
   C:/Qt/6.11.1/mingw_64/include/QtCore/qscopeguard.h \
@@ -2798,17 +3216,29 @@ CMakeFiles/appprojettback.dir/main.cpp.obj: C:/Users/dimi/Documents/projettback/
   C:/Qt/6.11.1/mingw_64/include/QtCore/qxptype_traits.h \
   C:/Qt/6.11.1/mingw_64/include/QtCore/qyieldcpu.h \
   C:/Qt/6.11.1/mingw_64/include/QtGui/QGuiApplication \
+  C:/Qt/6.11.1/mingw_64/include/QtGui/qgenericmatrix.h \
   C:/Qt/6.11.1/mingw_64/include/QtGui/qguiapplication.h \
   C:/Qt/6.11.1/mingw_64/include/QtGui/qguiapplication_platform.h \
   C:/Qt/6.11.1/mingw_64/include/QtGui/qinputmethod.h \
+  C:/Qt/6.11.1/mingw_64/include/QtGui/qmatrix4x4.h \
+  C:/Qt/6.11.1/mingw_64/include/QtGui/qopengl.h \
+  C:/Qt/6.11.1/mingw_64/include/QtGui/qopenglext.h \
   C:/Qt/6.11.1/mingw_64/include/QtGui/qtgui-config.h \
   C:/Qt/6.11.1/mingw_64/include/QtGui/qtguiexports.h \
   C:/Qt/6.11.1/mingw_64/include/QtGui/qtguiglobal.h \
+  C:/Qt/6.11.1/mingw_64/include/QtGui/qvector2d.h \
+  C:/Qt/6.11.1/mingw_64/include/QtGui/qvector3d.h \
+  C:/Qt/6.11.1/mingw_64/include/QtGui/qvector4d.h \
+  C:/Qt/6.11.1/mingw_64/include/QtGui/qvectornd.h \
   C:/Qt/6.11.1/mingw_64/include/QtGui/qwindowdefs.h \
   C:/Qt/6.11.1/mingw_64/include/QtGui/qwindowdefs_win.h \
   C:/Qt/6.11.1/mingw_64/include/QtNetwork/qtnetwork-config.h \
   C:/Qt/6.11.1/mingw_64/include/QtNetwork/qtnetworkexports.h \
   C:/Qt/6.11.1/mingw_64/include/QtNetwork/qtnetworkglobal.h \
+  C:/Qt/6.11.1/mingw_64/include/QtOpenGL/QOpenGLShaderProgram \
+  C:/Qt/6.11.1/mingw_64/include/QtOpenGL/qopenglshaderprogram.h \
+  C:/Qt/6.11.1/mingw_64/include/QtOpenGL/qtopenglexports.h \
+  C:/Qt/6.11.1/mingw_64/include/QtOpenGL/qtopenglglobal.h \
   C:/Qt/6.11.1/mingw_64/include/QtQml/QQmlApplicationEngine \
   C:/Qt/6.11.1/mingw_64/include/QtQml/qjsengine.h \
   C:/Qt/6.11.1/mingw_64/include/QtQml/qjsmanagedvalue.h \
@@ -3009,6 +3439,7 @@ CMakeFiles/appprojettback.dir/main.cpp.obj: C:/Users/dimi/Documents/projettback/
   C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
   C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h \
   C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/GL/gl.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_mac.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_off_t.h \
@@ -3089,6 +3520,8 @@ C:/Qt/6.11.1/mingw_64/include/QtCore/qcomparehelpers.h:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/Qt6ConfigExtras.cmake:
 
+C:/Qt/6.11.1/mingw_64/include/QtGui/qvector2d.h:
+
 C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdio_s.h:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/Qt6Targets.cmake:
@@ -3119,8 +3552,6 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6TaskTree/Qt6TaskTreeTargets-relwithdebinfo.cm
 
 C:/Qt/6.11.1/mingw_64/include/QtCore/qtenvironmentvariables.h:
 
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickwindowTargets-relwithdebinfo.cmake:
-
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlTools/Qt6QmlToolsTargets-relwithdebinfo.cmake:
 
 C:/Qt/6.11.1/mingw_64/include/QtQml/qjsmanagedvalue.h:
@@ -3137,11 +3568,11 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtFeature.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicAndroidHelpers.cmake:
 
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quicktoolingAdditionalTargetInfo.cmake:
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstyleimplpluginAdditionalTargetInfo.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake:
 
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstyleimplpluginAdditionalTargetInfo.cmake:
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quicktoolingAdditionalTargetInfo.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlInspectorServiceFactoryPluginAdditionalTargetInfo.cmake:
 
@@ -3160,8 +3591,6 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dassetutilspluginTa
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicCMakeEarlyPolicyHelpers.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake:
-
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/memory:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:
 
@@ -3253,6 +3682,8 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelineblendtreespl
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomHelpers.cmake:
 
+C:/Qt/6.11.1/mingw_64/include/QtGui/qvector3d.h:
+
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QICOPluginTargets-relwithdebinfo.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Concurrent/Qt6ConcurrentTargets-relwithdebinfo.cmake:
@@ -3277,9 +3708,9 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialsty
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Concurrent/Qt6ConcurrentConfigVersionImpl.cmake:
 
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6sharedimagepluginTargets.cmake:
-
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomPurlHelpers.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6sharedimagepluginTargets.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQuick3DProfilerAdapterFactoryPluginTargets-relwithdebinfo.cmake:
 
@@ -3294,6 +3725,8 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlAssetDownloaderPrivate/Qt6QmlAssetDownload
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QICOPluginTargetsPrecheck.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Concurrent/Qt6ConcurrentTargetsPrecheck.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectsprivateTargetsPrecheck.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomRelationshipHelpers.cmake:
 
@@ -3331,7 +3764,9 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QICOPluginTargets.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Concurrent/Qt6ConcurrentTargets.cmake:
 
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/exp_integral.tcc:
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectsprivateTargets.cmake:
+
+C:/Qt/6.11.1/mingw_64/include/QtCore/qnumeric.h:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Concurrent/Qt6ConcurrentConfigVersion.cmake:
 
@@ -3371,6 +3806,58 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreTargetsPrecheck.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreVersionlessAliasTargets.cmake:
 
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylepluginAdditionalTargetInfo.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgPluginTargetsPrecheck.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core5Compat/Qt6Core5CompatAdditionalTargetInfo.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylepluginConfig.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlshapespluginTargets.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core5Compat/Qt6Core5CompatConfig.cmake:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ctime:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/locale:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core5Compat/Qt6Core5CompatConfigVersion.cmake:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core5Compat/Qt6Core5CompatConfigVersionImpl.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogs2quickimplpluginTargetsPrecheck.cmake:
+
+C:/Qt/6.11.1/mingw_64/include/QtCore/qtcore-config.h:
+
+C:/Qt/6.11.1/mingw_64/include/QtCore/qstringbuilder.h:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core5Compat/Qt6Core5CompatDependencies.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlMeta/Qt6QmlMetaVersionlessAliasTargets.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylepluginTargets-relwithdebinfo.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core5Compat/Qt6Core5CompatTargets-relwithdebinfo.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylepluginTargets.cmake:
+
+C:/Qt/6.11.1/mingw_64/include/QtCore/qdir.h:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core5Compat/Qt6Core5CompatTargets.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlWorkerScript/Qt6QmlWorkerScriptAdditionalTargetInfo.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylepluginTargetsPrecheck.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core5Compat/Qt6Core5CompatTargetsPrecheck.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core5Compat/Qt6Core5CompatVersionlessAliasTargets.cmake:
+
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsAdditionalTargetInfo.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstyleimplpluginAdditionalTargetInfo.cmake:
@@ -3382,10 +3869,6 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstyleimplpluginConfig.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake:
-
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylepluginTargetsPrecheck.cmake:
-
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake:
 
 C:/Qt/6.11.1/mingw_64/include/QtCore/qpoint.h:
 
@@ -3411,9 +3894,9 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginAdditionalTargetInfo.cmake:
 
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsVersionlessTargets.cmake:
-
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsVersionlessTargets.cmake:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.tcc:
 
@@ -3478,6 +3961,8 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake:
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelinepluginTargetsPrecheck.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstylepluginConfig.cmake:
+
+C:/Qt/6.11.1/mingw_64/include/QtGui/qopengl.h:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfigVersion.cmake:
 
@@ -3577,9 +4062,9 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargetsPreche
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginConfig.cmake:
 
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets.cmake:
-
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6workerscriptpluginTargets.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets-relwithdebinfo.cmake:
 
@@ -3592,8 +4077,6 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/conc
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginConfig.cmake:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h:
-
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_hermite.tcc:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets-relwithdebinfo.cmake:
 
@@ -3615,17 +4098,13 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkVersionlessAliasTargets.cma
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets.cmake:
 
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylepluginAdditionalTargetInfo.cmake:
-
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgPluginTargetsPrecheck.cmake:
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6workerscriptpluginAdditionalTargetInfo.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginAdditionalTargetInfo.cmake:
 
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6workerscriptpluginAdditionalTargetInfo.cmake:
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6workerscriptpluginConfig.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginConfig.cmake:
-
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6workerscriptpluginConfig.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6workerscriptpluginTargets-relwithdebinfo.cmake:
 
@@ -3663,13 +4142,13 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginAdditionalTar
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkAdditionalTargetInfo.cmake:
 
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/beta_function.tcc:
+
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkTargets-relwithdebinfo.cmake:
 
 C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeRCInformation.cmake:
 
 C:/Qt/6.11.1/mingw_64/include/QtCore/qtcoreexports.h:
-
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/beta_function.tcc:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginTargets-relwithdebinfo.cmake:
 
@@ -3719,8 +4198,6 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargetsPrecheck.cmake:
 
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/execution_defs.h:
-
 .rcc/qmlcache/appprojettback_Mybutton_qml.cpp:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsVersionlessTargets.cmake:
@@ -3733,11 +4210,11 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkConfigVersion.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkConfigVersionImpl.cmake:
 
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkDependencies.cmake:
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstylepluginAdditionalTargetInfo.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickwindowTargetsPrecheck.cmake:
 
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstylepluginAdditionalTargetInfo.cmake:
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkDependencies.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6QNLMNIPluginAdditionalTargetInfo.cmake:
 
@@ -3752,6 +4229,8 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6QNLMNIPluginTargets.cmake:
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/messages_members.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cassert:
+
+C:/Qt/6.11.1/mingw_64/include/QtOpenGL/qtopenglglobal.h:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6QNLMNIPluginTargetsPrecheck.cmake:
 
@@ -3785,6 +4264,8 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6effectspluginTargets-relwit
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendCertOnlyPluginTargets.cmake:
 
+C:/Qt/6.11.1/mingw_64/include/QtGui/qvectornd.h:
+
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendCertOnlyPluginTargetsPrecheck.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick2pluginTargets.cmake:
@@ -3799,17 +4280,17 @@ C:/Qt/6.11.1/mingw_64/include/QtCore/qspan.h:
 
 C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake:
 
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginTargets-relwithdebinfo.cmake:
-
-C:/Qt/6.11.1/mingw_64/include/QtCore/qurl.h:
-
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickwindowAdditionalTargetInfo.cmake:
-
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlTools/Qt6QmlToolsAdditionalTargetInfo.cmake:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fluentwinui3styleimplpluginTargets.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginTargets-relwithdebinfo.cmake:
+
+C:/Qt/6.11.1/mingw_64/include/QtCore/qurl.h:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickwindowAdditionalTargetInfo.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginTargets.cmake:
 
@@ -3828,8 +4309,6 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlxmllistmodelpluginAdditi
 C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CheckIncludeFileCXX.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLConfigVersionImpl.cmake:
-
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/numeric:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6LabsStyleKitpluginTargets.cmake:
 
@@ -3885,11 +4364,11 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6LabsStyleKitImplpluginTarge
 
 C:/Qt/6.11.1/mingw_64/include/QtQml/qqmlengine.h:
 
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits:
+
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6particlespluginTargets-relwithdebinfo.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6LabsStyleKitImplpluginTargetsPrecheck.cmake:
-
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlxmllistmodelpluginTargetsPrecheck.cmake:
 
@@ -3927,9 +4406,9 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6LabsSynchronizerpluginTarge
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQuickProfilerAdapterFactoryPluginConfig.cmake:
 
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlAssetDownloaderPrivatepluginAdditionalTargetInfo.cmake:
-
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlAssetDownloaderPrivatepluginAdditionalTargetInfo.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlAssetDownloaderPrivatepluginConfig.cmake:
 
@@ -3951,6 +4430,8 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlNetworkpluginConfig.cmak
 
 C:/Qt/6.11.1/mingw_64/include/QtCore/qconstructormacros.h:
 
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2ConfigVersionImpl.cmake:
+
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlNetworkpluginTargets.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlNetworkpluginTargetsPrecheck.cmake:
@@ -3962,6 +4443,8 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/concu
 C:/Qt/6.11.1/mingw_64/include/QtCore/qdatetime.h:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsanimationpluginConfig.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2AdditionalTargetInfo.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6Quick3DXrpluginConfig.cmake:
 
@@ -4003,6 +4486,8 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dparticles3dpluginC
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h:
 
+C:/Qt/6.11.1/mingw_64/include/QtGui/qopenglext.h:
+
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickshapesdesignhelperspluginConfig.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickTestpluginConfig.cmake:
@@ -4042,8 +4527,6 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlpluginTargets.cmake:
 C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6effectspluginConfig.cmake:
-
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/time_members.h:
 
@@ -4127,19 +4610,19 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquicklayoutspluginAddition
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2imaginestylepluginConfig.cmake:
 
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlAdditionalTargetInfo.cmake:
-
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlModels/Qt6QmlModelsAdditionalTargetInfo.cmake:
-
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quicktoolingConfig.cmake:
-
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlsettingspluginTargets-relwithdebinfo.cmake:
-
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstyleimplpluginConfig.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQuickEventReplayServiceFactoryPluginTargetsPrecheck.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2imaginestylepluginTargets-relwithdebinfo.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlAdditionalTargetInfo.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlModels/Qt6QmlModelsAdditionalTargetInfo.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlsettingspluginTargets-relwithdebinfo.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quicktoolingConfig.cmake:
 
 C:/Qt/6.11.1/mingw_64/include/QtCore/qdirlisting.h:
 
@@ -4147,21 +4630,13 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2imaginestyl
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlsettingspluginTargetsPrecheck.cmake:
 
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlshapespluginConfig.cmake:
-
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6sharedimagepluginAdditionalTargetInfo.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlshapespluginConfig.cmake:
 
 C:/Qt/6.11.1/mingw_64/include/QtCore/qconfig.h:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlshapespluginTargets-relwithdebinfo.cmake:
-
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylepluginConfig.cmake:
-
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlshapespluginTargets.cmake:
-
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ctime:
-
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlshapespluginTargetsPrecheck.cmake:
 
@@ -4194,8 +4669,6 @@ C:/Qt/6.11.1/mingw_64/include/QtCore/qcompare_impl.h:
 C:/Qt/6.11.1/mingw_64/include/QtNetwork/qtnetwork-config.h:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2pluginTargetsPrecheck.cmake:
-
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6sharedimagepluginTargets-relwithdebinfo.cmake:
 
 C:/Qt/6.11.1/mingw_64/include/QtCore/qtcoreglobal.h:
 
@@ -4241,6 +4714,8 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlDebugServerFactoryPluginTargetsPre
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquickvectorimagehelperspluginTargets.cmake:
 
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2Targets.cmake:
+
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquickvectorimagepluginAdditionalTargetInfo.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlProfilerServiceFactoryPluginTargets.cmake:
@@ -4259,6 +4734,8 @@ C:/Qt/6.11.1/mingw_64/include/QtNetwork/qtnetworkexports.h:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstylepluginAdditionalTargetInfo.cmake:
 
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2Dependencies.cmake:
+
 C:/Qt/6.11.1/mingw_64/include/QtCore/qmetacontainer.h:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtchartsqml2AdditionalTargetInfo.cmake:
@@ -4273,9 +4750,9 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtchartsqml2Config.cmake:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/parse_numbers.h:
 
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstylepluginTargets-relwithdebinfo.cmake:
-
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstylepluginTargets-relwithdebinfo.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtchartsqml2Targets-relwithdebinfo.cmake:
 
@@ -4287,9 +4764,37 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstyle
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtchartsqml2Targets.cmake:
 
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginAdditionalTargetInfo.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginConfig.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginTargets-relwithdebinfo.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginTargets.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstylepluginTargets-relwithdebinfo.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginTargetsPrecheck.cmake:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multiset.h:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectsprivateAdditionalTargetInfo.cmake:
+
+C:/Qt/6.11.1/mingw_64/include/QtCore/qtaggedpointer.h:
+
+C:/Qt/6.11.1/mingw_64/include/QtCore/qtconfigmacros.h:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectsprivateConfig.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickmultimediaAdditionalTargetInfo.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectsprivateTargets-relwithdebinfo.cmake:
+
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtqmlcorepluginAdditionalTargetInfo.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickToolsTargets.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2AdditionalTargetInfo.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtqmlcorepluginConfig.cmake:
 
@@ -4345,9 +4850,9 @@ C:/Qt/6.11.1/mingw_64/include/QtCore/qhash.h:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dhelpersimplpluginTargetsPrecheck.cmake:
 
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dhelperspluginAdditionalTargetInfo.cmake:
-
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dhelperspluginAdditionalTargetInfo.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dhelperspluginTargetsPrecheck.cmake:
 
@@ -4356,6 +4861,8 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno:
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dparticleeffectspluginAdditionalTargetInfo.cmake:
 
 C:/Qt/6.11.1/mingw_64/include/QtCore/qforeach.h:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2Dependencies.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dparticleeffectspluginConfig.cmake:
 
@@ -4381,15 +4888,11 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstylei
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstylepluginConfig.cmake:
 
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iterator:
-
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstylepluginTargets-relwithdebinfo.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstylepluginTargets.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstylepluginTargetsPrecheck.cmake:
-
-.rcc/qmlcache/appprojettback_TrianButt_qml.cpp:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fluentwinui3styleimplpluginConfig.cmake:
 
@@ -4404,6 +4907,8 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fluentwinui
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fluentwinui3stylepluginTargets.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fluentwinui3stylepluginTargetsPrecheck.cmake:
+
+C:/Qt/6.11.1/mingw_64/include/QtOpenGL/qopenglshaderprogram.h:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstyleimplpluginAdditionalTargetInfo.cmake:
 
@@ -4423,8 +4928,6 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2imaginestyl
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2imaginestyleimplpluginTargetsPrecheck.cmake:
 
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h:
-
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2implpluginConfig.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2implpluginTargets-relwithdebinfo.cmake:
@@ -4443,10 +4946,6 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basi
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstylepluginTargetsPrecheck.cmake:
 
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylepluginTargets-relwithdebinfo.cmake:
-
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylepluginTargets.cmake:
-
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlDebuggerServiceFactoryPluginAdditionalTargetInfo.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2pluginAdditionalTargetInfo.cmake:
@@ -4455,25 +4954,17 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlDebuggerServiceFactoryPluginTarget
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2pluginTargets-relwithdebinfo.cmake:
 
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quicktoolingTargets-relwithdebinfo.cmake:
-
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstyleimplpluginTargets-relwithdebinfo.cmake:
-
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quicktoolingTargets.cmake:
 
 C:/Qt/6.11.1/mingw_64/include/QtCore/qcontainertools_impl.h:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstyleimplpluginTargets.cmake:
-
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quicktoolingTargetsPrecheck.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstyleimplpluginTargetsPrecheck.cmake:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstylepluginAdditionalTargetInfo.cmake:
-
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstylepluginTargets-relwithdebinfo.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstylepluginTargets.cmake:
 
@@ -4513,12 +5004,6 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogs2quickimplplu
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlNativeDebugServiceFactoryPluginTargetsPrecheck.cmake:
 
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogs2quickimplpluginTargetsPrecheck.cmake:
-
-C:/Qt/6.11.1/mingw_64/include/QtCore/qtcore-config.h:
-
-C:/Qt/6.11.1/mingw_64/include/QtCore/qstringbuilder.h:
-
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogspluginTargets.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogspluginTargetsPrecheck.cmake:
@@ -4534,6 +5019,8 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktemplates2pluginConf
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktemplates2pluginTargets-relwithdebinfo.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktemplates2pluginTargets.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2VersionlessAliasTargets.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelineblendtreespluginConfig.cmake:
 
@@ -4553,17 +5040,23 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dspatialaudioTargets.
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_atomic.h:
 
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickmultimediaAdditionalTargetInfo.cmake:
-
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickmultimediaTargetsPrecheck.cmake:
 
-C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Internal/CheckFlagCommonConfig.cmake:
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quicktoolingTargets-relwithdebinfo.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quicktoolingTargets.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quicktoolingTargetsPrecheck.cmake:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_laguerre.tcc:
+
+C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Internal/CheckFlagCommonConfig.cmake:
 
 C:/Qt/6.11.1/mingw_64/include/QtCore/qcoreapplication_platform.h:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickwindowConfig.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickwindowTargets-relwithdebinfo.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickwindowTargets.cmake:
 
@@ -4573,15 +5066,17 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6sharedimagepluginConfig.cma
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h:
 
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6sharedimagepluginTargets-relwithdebinfo.cmake:
+
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6sharedimagepluginTargetsPrecheck.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QDebugMessageServiceFactoryPluginAdditionalTargetInfo.cmake:
 
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error:
+
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QDebugMessageServiceFactoryPluginTargets-relwithdebinfo.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlAssetDownloaderPrivate/Qt6QmlAssetDownloaderPrivateConfigVersionImpl.cmake:
-
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h:
 
@@ -4599,11 +5094,13 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QLocalClientConnectionFactoryPluginAdditionalTargetInfo.cmake:
 
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QLocalClientConnectionFactoryPluginTargets-relwithdebinfo.cmake:
+C:/Qt/6.11.1/mingw_64/include/QtCore/qrect.h:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlPreviewServiceFactoryPluginTargets.cmake:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/modified_bessel_func.tcc:
 
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlPreviewServiceFactoryPluginTargets.cmake:
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QLocalClientConnectionFactoryPluginTargets-relwithdebinfo.cmake:
 
 C:/Qt/6.11.1/mingw_64/include/QtGui/qinputmethod.h:
 
@@ -4633,9 +5130,9 @@ C:/Qt/6.11.1/mingw_64/include/QtCore/qcoreevent.h:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlInspectorServiceFactoryPluginTargets.cmake:
 
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlInspectorServiceFactoryPluginTargetsPrecheck.cmake:
-
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlInspectorServiceFactoryPluginTargetsPrecheck.cmake:
 
 C:/Qt/6.11.1/mingw_64/include/QtCore/qcontainerinfo.h:
 
@@ -4677,7 +5174,13 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlProfilerServiceFactoryPluginConfig
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h:
 
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2Config.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2Targets-relwithdebinfo.cmake:
+
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlProfilerServiceFactoryPluginTargets-relwithdebinfo.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2TargetsPrecheck.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlProfilerServiceFactoryPluginTargetsPrecheck.cmake:
 
@@ -4699,9 +5202,9 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQuickProfilerAdapterFactoryPluginTarg
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QTcpServerConnectionFactoryPluginConfig.cmake:
 
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QTcpServerConnectionFactoryPluginTargets.cmake:
-
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/ell_integral.tcc:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QTcpServerConnectionFactoryPluginTargets.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QTcpServerConnectionFactoryPluginTargetsPrecheck.cmake:
 
@@ -4757,9 +5260,9 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlModels/Qt6QmlModelsVersionlessAliasTargets
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in:
 
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlAssetDownloaderPrivate/Qt6QmlAssetDownloaderPrivateAdditionalTargetInfo.cmake:
-
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/list:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlAssetDownloaderPrivate/Qt6QmlAssetDownloaderPrivateAdditionalTargetInfo.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlAssetDownloaderPrivate/Qt6QmlAssetDownloaderPrivateConfig.cmake:
 
@@ -4795,8 +5298,6 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlMeta/Qt6QmlMetaTargets-relwithdebinfo.cmak
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlMeta/Qt6QmlMetaTargets.cmake:
 
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlMeta/Qt6QmlMetaVersionlessAliasTargets.cmake:
-
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stream_iterator.h:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlTools/Qt6QmlToolsConfig.cmake:
@@ -4818,10 +5319,6 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/align
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlTools/Qt6QmlToolsVersionlessTargets.cmake:
 
 C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake:
-
-C:/Qt/6.11.1/mingw_64/include/QtCore/qdir.h:
-
-C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlWorkerScript/Qt6QmlWorkerScriptAdditionalTargetInfo.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlWorkerScript/Qt6QmlWorkerScriptConfigVersionImpl.cmake:
 
@@ -4848,6 +5345,30 @@ C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickTargets-relwithdebinfo.cmake:
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickTargets.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickVersionlessAliasTargets.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2ConfigVersion.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2ConfigVersionImpl.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2Config.cmake:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2ConfigVersion.cmake:
+
+C:/Qt/6.11.1/mingw_64/include/QtCore/q20functional.h:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2Targets-relwithdebinfo.cmake:
+
+C:/Qt/6.11.1/mingw_64/include/QtCore/qcalendar.h:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2Targets.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2TargetsPrecheck.cmake:
+
+C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2VersionlessAliasTargets.cmake:
 
 C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickToolsConfig.cmake:
 
@@ -4913,10 +5434,6 @@ CMakeFiles/3.30.5/CMakeSystem.cmake:
 
 C:/Qt/6.11.1/mingw_64/include/QtCore/q17memory.h:
 
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h:
-
-C:/Qt/6.11.1/mingw_64/include/QtCore/q20functional.h:
-
 C:/Qt/6.11.1/mingw_64/include/QtCore/q20iterator.h:
 
 C:/Qt/6.11.1/mingw_64/include/QtCore/q23type_traits.h:
@@ -4941,10 +5458,6 @@ C:/Qt/6.11.1/mingw_64/include/QtCore/qbytearray.h:
 
 C:/Qt/6.11.1/mingw_64/include/QtCore/qbytearraylist.h:
 
-C:/Qt/6.11.1/mingw_64/include/QtCore/qcalendar.h:
-
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h:
-
 C:/Qt/6.11.1/mingw_64/include/QtCore/qcontiguouscache.h:
 
 C:/Qt/6.11.1/mingw_64/include/QtCore/qdarwinhelpers.h:
@@ -4956,8 +5469,6 @@ C:/Qt/6.11.1/mingw_64/include/QtCore/qdebug.h:
 C:/Qt/6.11.1/mingw_64/include/QtQml/qqml.h:
 
 C:/Qt/6.11.1/mingw_64/include/QtCore/qflags.h:
-
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h:
 
 C:/Qt/6.11.1/mingw_64/include/QtCore/qfloat16.h:
 
@@ -4983,6 +5494,8 @@ C:/Qt/6.11.1/mingw_64/include/QtCore/qlocale.h:
 
 C:/Qt/6.11.1/mingw_64/include/QtCore/qlogging.h:
 
+C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/GL/gl.h:
+
 C:/Qt/6.11.1/mingw_64/include/QtCore/qmetaobject.h:
 
 C:/Qt/6.11.1/mingw_64/include/QtCore/qmetasequence.h:
@@ -4990,8 +5503,6 @@ C:/Qt/6.11.1/mingw_64/include/QtCore/qmetasequence.h:
 C:/Qt/6.11.1/mingw_64/include/QtCore/qmetatype.h:
 
 C:/Qt/6.11.1/mingw_64/include/QtCore/qminmax.h:
-
-C:/Qt/6.11.1/mingw_64/include/QtCore/qnumeric.h:
 
 C:/Qt/6.11.1/mingw_64/include/QtCore/qobjectdefs_impl.h:
 
@@ -5037,15 +5548,9 @@ C:/Qt/6.11.1/mingw_64/include/QtCore/qsysinfo.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h:
 
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multiset.h:
-
-C:/Qt/6.11.1/mingw_64/include/QtCore/qtaggedpointer.h:
-
 C:/Qt/6.11.1/mingw_64/include/QtCore/qtconfiginclude.h:
 
 C:/Qt/6.11.1/mingw_64/include/QtQml/qtqml-config.h:
-
-C:/Qt/6.11.1/mingw_64/include/QtCore/qtconfigmacros.h:
 
 C:/Qt/6.11.1/mingw_64/include/QtCore/qtdeprecationmarkers.h:
 
@@ -5058,8 +5563,6 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/rang
 C:/Qt/6.11.1/mingw_64/include/QtCore/qttypetraits.h:
 
 C:/Qt/6.11.1/mingw_64/include/QtCore/qtversionchecks.h:
-
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list:
 
 C:/Qt/6.11.1/mingw_64/include/QtCore/qtypeinfo.h:
 
@@ -5095,17 +5598,13 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/algorithmfwd.h:
 
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/locale:
-
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h:
-
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocated_ptr.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h:
 
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_lockfree_defines.h:
-
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/legendre_function.tcc:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_lockfree_defines.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc:
 
@@ -5130,8 +5629,6 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/list
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc:
-
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h:
 
@@ -5175,9 +5672,9 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniq
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h:
 
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc:
-
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/map:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/chrono:
 
@@ -5201,9 +5698,19 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numer
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h:
 
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iterator:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/memory:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/numeric:
+
 C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wctype.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/optional:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/execution_defs.h:
 
 C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/locale.h:
 
@@ -5213,19 +5720,33 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_numeric_defs.h:
 
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h:
+
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ratio:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/set:
 
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view:
+
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/exp_integral.tcc:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/gamma.tcc:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/hypergeometric.tcc:
 
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_hermite.tcc:
+
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/riemann_zeta.tcc:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/special_function_util.h:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/utility:
 
@@ -5315,15 +5836,17 @@ C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h:
 
 .qt/rcc/qrc_qmake_projettback.cpp:
 
-.rcc/qmlcache/appprojettback_Main_qml.cpp:
-
-C:/Qt/6.11.1/mingw_64/include/QtCore/qloggingcategory.h:
+.rcc/qmlcache/appprojettback_Buttoncircle_qml.cpp:
 
 C:/Qt/6.11.1/mingw_64/include/QtQml/qjsengine.h:
 
 C:/Qt/6.11.1/mingw_64/include/QtQml/qqmlcontext.h:
 
 C:/Qt/6.11.1/mingw_64/include/QtQml/qqmldebug.h:
+
+.rcc/qmlcache/appprojettback_Main_qml.cpp:
+
+C:/Qt/6.11.1/mingw_64/include/QtCore/qloggingcategory.h:
 
 .rcc/qmlcache/appprojettback_qmlcache_loader.cpp:
 
@@ -5381,11 +5904,21 @@ C:/Qt/6.11.1/mingw_64/include/QtCore/qsize.h:
 
 C:/Qt/6.11.1/mingw_64/include/QtGui/QGuiApplication:
 
+C:/Qt/6.11.1/mingw_64/include/QtGui/qgenericmatrix.h:
+
+C:/Qt/6.11.1/mingw_64/include/QtGui/qmatrix4x4.h:
+
 C:/Qt/6.11.1/mingw_64/include/QtGui/qtguiexports.h:
 
 C:/Qt/6.11.1/mingw_64/include/QtGui/qtguiglobal.h:
 
+C:/Qt/6.11.1/mingw_64/include/QtGui/qvector4d.h:
+
 C:/Qt/6.11.1/mingw_64/include/QtGui/qwindowdefs_win.h:
+
+C:/Qt/6.11.1/mingw_64/include/QtOpenGL/QOpenGLShaderProgram:
+
+C:/Qt/6.11.1/mingw_64/include/QtOpenGL/qtopenglexports.h:
 
 C:/Qt/6.11.1/mingw_64/include/QtQml/QQmlApplicationEngine:
 

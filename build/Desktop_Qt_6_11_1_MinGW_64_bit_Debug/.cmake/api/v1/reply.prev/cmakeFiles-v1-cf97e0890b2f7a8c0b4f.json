@@ -2143,6 +2143,56 @@
 		},
 		{
 			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginTargetsPrecheck.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectsprivateConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectsprivateTargetsPrecheck.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectsprivateTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectsprivateTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectsprivateAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
 			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtqmlcorepluginConfig.cmake"
 		},
 		{
@@ -3406,6 +3456,32 @@
 		},
 		{
 			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginTargetsPrecheck.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectsprivateConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectsprivateTargetsPrecheck.cmake"
+		},
+		{
+			"isExternal" : true,
 			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtqmlcorepluginConfig.cmake"
 		},
 		{
@@ -4489,6 +4565,216 @@
 		{
 			"isExternal" : true,
 			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickVersionlessAliasTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickToolsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickToolsConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickToolsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickToolsDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlTools/Qt6QmlToolsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlTools/Qt6QmlToolsConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlTools/Qt6QmlToolsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlTools/Qt6QmlToolsDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlTools/Qt6QmlToolsTargetsPrecheck.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickToolsTargetsPrecheck.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6SvgToQmlMacros.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickTargetsPrecheck.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickPlugins.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickVersionlessAliasTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2ConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2Config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2Dependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2ConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2Config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2Dependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2TargetsPrecheck.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2Targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2Targets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2AdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2VersionlessAliasTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2TargetsPrecheck.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2Targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2Targets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2AdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2VersionlessAliasTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core5Compat/Qt6Core5CompatConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core5Compat/Qt6Core5CompatConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core5Compat/Qt6Core5CompatConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core5Compat/Qt6Core5CompatDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core5Compat/Qt6Core5CompatTargetsPrecheck.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core5Compat/Qt6Core5CompatTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core5Compat/Qt6Core5CompatTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core5Compat/Qt6Core5CompatAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core5Compat/Qt6Core5CompatVersionlessAliasTargets.cmake"
 		},
 		{
 			"isExternal" : true,
