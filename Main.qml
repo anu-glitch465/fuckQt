@@ -20,18 +20,26 @@ ApplicationWindow {
     property color light: "#e0e0e0"
 Window{
     visible: true
-        width: 800
-        height: 600
+        maximumWidth: 800
+        maximumHeight: 600
 
         ShaderEffect {
+            id: shader
             anchors.fill: parent
 
-            vertexShader: "qrc:/shaders/fullscreen.vert.qsb"
-            fragmentShader: "qrc:/shaders/gradient.frag.qsb"
+                vertexShader: "qrc:/qt/qml/projettback/shader.vert.qsb"
+                fragmentShader: "qrc:/qt/qml/projettback/shader.frag.qsb"
 
-            property vector2d u_resolution: Qt.vector2d(width, height)
-            property real u_time: 0.0
-            property vector2d u_mouse: Qt.vector2d(0, 0)
+                property vector2d u_resolution: Qt.vector2d(width, height)
+                property real u_time: 0.0
+                property vector2d u_mouse: Qt.vector2d(0, 0)
+
+                NumberAnimation on u_time {
+                    from: 0
+                    to: 100
+                    duration: 100000   // 100 секунд
+                    loops: Animation.Infinite
+                }
         }
 }
 
@@ -93,29 +101,51 @@ Window{
         onClicked: {
             console.log("triangle clicked")
         }
-    //     Glow {
-    //             anchors.fill: targetItem
-    //             source: targetItem
-
-    //             radius: 16              // Радиус свечения
-    //             color: "#00d2ff"         // Цвет
-    //             spread: 0.15            // Плотность у краев (от 0.0 до 1.0)
-    //             //fast: true               // Оптимизированный быстрый шейдер
-    //         }
-    }
-    // Image {
-    //     width: 120
-    //     height: 100
-    //     id: name
-    //     source: "qrc:/qt/qml/projettback/logo.png"
-    // }
+}
     Mybutton{
         id: crug
         radius: 20
         color: "blue"
         text:"Truahat"
+        // ShaderEffect {
+        //     id: effect
+        //     anchors.fill: parent
 
+        //     opacity: crug.hovered ? 1.0 : 0.0
+
+        //     Behavior on opacity {
+        //         NumberAnimation { duration: 200 }
+        //     }
+
+        //     property real u_time: Qt.binding(() => performance.now() / 1000)
+        //     property vector2d u_resolution: Qt.vector2d(width, height)
+
+        //     fragmentShader: "qrc:/shaders/gradient.frag.qsb"
+        // }
+
+    // background: ShaderEffect {
+    //        anchors.fill: parent
+
+    //        // uniform из шейдера
+    //        property real time: 0
+
+    //        // 👉 анимация времени
+    //        NumberAnimation on time {
+    //            from: 0
+    //            to: 1000
+    //            duration: 100000
+    //            loops: Animation.Infinite
+    //        }
+
+    //        // 👉 ВАЖНО: подключаешь свои файлы
+    //        vertexShader: "qrc:/shaders/fullscreen.vert.qsb"
+    //        fragmentShader: "qrc:/shaders/gradient.frag.qsb"
+    //    }
 }
+    Mybutt {
+            anchors.centerIn: parent
+            text: "Наведи на меня"
+        }
 
     // GridLayout {
     //     id: grid
@@ -124,5 +154,5 @@ Window{
     //     columnSpacing: 0
     //     anchors.fill: parent
     // }
-}
+    }
 

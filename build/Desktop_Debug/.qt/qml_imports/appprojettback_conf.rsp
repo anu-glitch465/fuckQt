@@ -1,0 +1,15 @@
+-rootPath
+/home/llmsf/Desktop/appia/fuckQt
+-cmake-output
+-output-file
+/home/llmsf/Desktop/appia/fuckQt/build/Desktop_Debug/.qt/qml_imports/appprojettback_conf.cmake
+-importPath
+/home/llmsf/Desktop/appia/fuckQt/build/Desktop_Debug
+-importPath
+/home/llmsf/Desktop/appia/fuckQt/build/Desktop_Debug/projettback
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/llmsf/Desktop/appia/fuckQt/build/Desktop_Debug/.qt/rcc/qmake_projettback.qrc
+/home/llmsf/Desktop/appia/fuckQt/build/Desktop_Debug/.qt/rcc/appprojettback_raw_qml_0.qrc
+/home/llmsf/Desktop/appia/fuckQt/build/Desktop_Debug/.qt/rcc/appprojettback_raw_res_0.qrc

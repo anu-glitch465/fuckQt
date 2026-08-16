@@ -1,0 +1,11 @@
+--resource
+/home/llmsf/Desktop/appia/fuckQt/build/Desktop_Debug/.qt/rcc/qmake_projettback.qrc
+--resource
+/home/llmsf/Desktop/appia/fuckQt/build/Desktop_Debug/.qt/rcc/appprojettback_raw_qml_0.qrc
+--resource
+/home/llmsf/Desktop/appia/fuckQt/build/Desktop_Debug/.qt/rcc/appprojettback_raw_res_0.qrc
+/qt/qml/projettback/Main.qml
+/qt/qml/projettback/Mybutton.qml
+/qt/qml/projettback/TrianButt.qml
+/qt/qml/projettback/Buttoncircle.qml
+/qt/qml/projettback/Mybutt.qml

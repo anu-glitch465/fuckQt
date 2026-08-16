@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/projettback">/home/llmsf/Desktop/appia/fuckQt/build/Desktop_Debug/projettback</file>
+
+  </qresource>
+</RCC>

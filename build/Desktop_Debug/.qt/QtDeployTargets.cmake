@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appprojettback_FILE /home/llmsf/Desktop/appia/fuckQt/build/Desktop_Debug/appprojettback)
+set(__QT_DEPLOY_TARGET_appprojettback_TYPE EXECUTABLE)

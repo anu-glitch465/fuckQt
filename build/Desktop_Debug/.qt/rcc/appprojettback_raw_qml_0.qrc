@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="/qt/qml/projettback/">
+    <file alias="Main.qml">/home/llmsf/Desktop/appia/fuckQt/Main.qml</file>
+    <file alias="Mybutton.qml">/home/llmsf/Desktop/appia/fuckQt/Mybutton.qml</file>
+    <file alias="TrianButt.qml">/home/llmsf/Desktop/appia/fuckQt/TrianButt.qml</file>
+    <file alias="Buttoncircle.qml">/home/llmsf/Desktop/appia/fuckQt/Buttoncircle.qml</file>
+    <file alias="gradient.frag.qsb">/home/llmsf/Desktop/appia/fuckQt/gradient.frag.qsb</file>
+    <file alias="fullscreen.vert.qsb">/home/llmsf/Desktop/appia/fuckQt/fullscreen.vert.qsb</file>
+    <file alias="shader.frag.qsb">/home/llmsf/Desktop/appia/fuckQt/shader.frag.qsb</file>
+    <file alias="shader.vert.qsb">/home/llmsf/Desktop/appia/fuckQt/shader.vert.qsb</file>
+    <file alias="Mybutt.qml">/home/llmsf/Desktop/appia/fuckQt/Mybutt.qml</file>
+  </qresource>
+</RCC>
+

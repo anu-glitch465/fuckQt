@@ -29,6 +29,9 @@ qt_add_qml_module(appprojettback
                 QML_FILES Buttoncircle.qml
                 gradient.frag.qsb
                 fullscreen.vert.qsb
+                shader.frag.qsb
+                shader.vert.qsb
+                QML_FILES Mybutt.qml
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
